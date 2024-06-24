@@ -1,0 +1,36 @@
+{"equipo":"PSG",
+"liga":"Ligue 1",
+"pais":"Francia",
+"jugadores":["K.Navas","P.Kimpembe","A.Diallo","Marquinhos","A.Florenzi","L.Paredes","Danilo Pereira","M.Verratti","K.Mbappe","M.Kean","Neymar"]}
+{"equipo":"Barcelona",
+"liga":"LaLiga",
+"pais":"Espana",
+"jugadores":["M.Ter Stegen","Jordi Alba","C.Lenglet","Pique","Sergi Roberto","F.De Jong","Busquets","Ansu Fati","A.Griezmann","O.Dembele","L.Messi"]}
+{"equipo":"Real Madrid",
+"liga":"LaLiga",
+"pais":"Espana",
+"jugadores":["T.Courtois","Nacho","R.Varane","Lucas Vazquez","Casemiro","T.Kross","L.Modric","Isco","Asensio","K.Benzema","M.Diaz"]}
+{"equipo":"Manchester City",
+"liga":"Premier League",
+"pais":"Inglaterra",
+"jugadores":["Ederson Moraes","O.Zinchenko","A.Laporte","Ruben Dias","K.Walker","I.Gundogan","Bernardo","Silva","R.Sterling","Gabriel Jesus","R.Mahrez"]}
+{"equipo":"Borussia Dortmund",
+"liga":"Bundesliga",
+"pais":"Alemania",
+"jugadores":["R.Burki","Raphael Guerreiro","M.Hummels","M.Akanji","T.Meunier","T.Delaney","M.Dahoud","T.Hazard","G.Reyna","J.Sancho","E.Haaland"]}
+{"equipo":"Juventus",
+"liga":"Serie A",
+"pais":"Italia",
+"jugadores":["W.Szczesny","Alex Sandro","L.Bonucci","M.Demiral","J.Cuadrado","F.Chiesa","A.Raibot","R.Bentancur","A.Ramsey","Cristiano Ronaldo","Morata"]}
+{"equipo":"Boca Juniors",
+"liga":"Primera Argentina",
+"pais":"Argentina",
+"jugadores":["E.Andrada","M.Rojo","C.Izquierdoz","C.Zambrano","F.Fabra","N.Capaldo","J.Campuzano","C.Medina","G.Maroni","S.Villa","C.Tevez"]}
+{"equipo":"River Plate",
+"liga":"Primera Argentina",
+"pais":"Argentina",
+"jugadores":["F.Armani","M.Casco","P.Diaz","J.Maidana","A.Vigo","A.Palavecino","E.Perez","N.De La Cruz","M.Suarez","R.Borre","J.Alvarez"]}
+{"equipo":"Manchester United",
+"liga":"Premier League",
+"pais":"Inglaterra",
+"jugadores":["David De Gea","L.Shaw","H.Maguire","V.Lindelof","A.Wan-Bissaka","Fred","P.Pogba","S.Mctominay","Bruno Fernandes","M.Greenwood","M.Rashford"]}

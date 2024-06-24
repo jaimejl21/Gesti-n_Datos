@@ -1,0 +1,691 @@
+{"id":"f-001",
+"nombre":"K.Navas",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-002",
+"nombre":"P.Kimpembe",
+"edad":31,
+"cartas":[
+{"tipo":"normal","media": 84}
+,{"tipo":"TOTY","media": 92}
+]}
+{"id":"f-003",
+"nombre":"A.Diallo",
+"edad":31,
+"cartas":[
+{"tipo":"normal","media": 87}
+,{"tipo":"TOTY","media": 95}
+,{"tipo":"Destacados","media": 91}
+]}
+{"id":"f-004",
+"nombre":"Marquinhos",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 88}
+,{"tipo":"TOTY","media": 96}
+,{"tipo":"Destacados","media": 92}
+]}
+{"id":"f-005",
+"nombre":"A.Florenzi",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 88}
+,{"tipo":"TOTY","media": 96}
+,{"tipo":"Destacados","media": 92}
+]}
+{"id":"f-006",
+"nombre":"L.Paredes",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 86}
+]}
+{"id":"f-007",
+"nombre":"Danilo Pereira",
+"edad":22,
+"cartas":[
+{"tipo":"normal","media": 86}
+,{"tipo":"Destacados","media": 90}
+]}
+{"id":"f-008",
+"nombre":"M.Verratti",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"TOTY","media": 90}
+]}
+{"id":"f-009",
+"nombre":"K.Mbappe",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"TOTY","media": 88}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-010",
+"nombre":"M.Kean",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-011",
+"nombre":"Neymar",
+"edad":24,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"TOTY","media": 88}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-012",
+"nombre":"M.Ter Stegen",
+"edad":26,
+"cartas":[
+{"tipo":"normal","media": 89}
+]}
+{"id":"f-013",
+"nombre":"Jordi Alba",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"Destacados","media": 85}
+]}
+{"id":"f-014",
+"nombre":"C.Lenglet",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}
+{"id":"f-015",
+"nombre":"Pique",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 83}
+,{"tipo":"TOTY","media": 91}
+,{"tipo":"Destacados","media": 87}
+]}
+{"id":"f-016",
+"nombre":"Sergi Roberto",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"TOTY","media": 98}
+,{"tipo":"Destacados","media": 94}
+]}
+{"id":"f-017",
+"nombre":"F.De Jong",
+"edad":33,
+"cartas":[
+{"tipo":"normal","media": 86}
+,{"tipo":"TOTY","media": 94}
+]}
+{"id":"f-018",
+"nombre":"Busquets",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 83}
+,{"tipo":"TOTY","media": 91}
+,{"tipo":"Destacados","media": 87}
+]}
+{"id":"f-019",
+"nombre":"Ansu Fati",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-020",
+"nombre":"A.Griezmann",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 86}
+]}
+{"id":"f-021",
+"nombre":"O.Dembele",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-022",
+"nombre":"L.Messi",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"Destacados","media": 94}
+]}
+{"id":"f-023",
+"nombre":"T.Courtois",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+]}
+{"id":"f-024",
+"nombre":"Nacho",
+"edad":34,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}
+{"id":"f-025",
+"nombre":"R.Varane",
+"edad":24,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"TOTY","media": 90}
+,{"tipo":"Destacados","media": 86}
+]}
+{"id":"f-026",
+"nombre":"Lucas Vazquez",
+"edad":24,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"TOTY","media": 88}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-027",
+"nombre":"Casemiro",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+]}
+{"id":"f-028",
+"nombre":"T.Kross",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 85}
+]}
+{"id":"f-029",
+"nombre":"L.Modric",
+"edad":21,
+"cartas":[
+{"tipo":"normal","media": 83}
+,{"tipo":"TOTY","media": 91}
+,{"tipo":"Destacados","media": 87}
+]}
+{"id":"f-030",
+"nombre":"Isco",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"TOTY","media": 98}
+]}
+{"id":"f-031",
+"nombre":"Asensio",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 82}
+]}
+{"id":"f-032",
+"nombre":"K.Benzema",
+"edad":21,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"TOTY","media": 98}
+]}
+{"id":"f-033",
+"nombre":"M.Diaz",
+"edad":24,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-034",
+"nombre":"Ederson Moraes",
+"edad":22,
+"cartas":[
+{"tipo":"normal","media": 87}
+,{"tipo":"TOTY","media": 95}
+]}
+{"id":"f-035",
+"nombre":"O.Zinchenko",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"Destacados","media": 85}
+]}
+{"id":"f-036",
+"nombre":"A.Laporte",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 80}
+]}
+{"id":"f-037",
+"nombre":"Ruben Dias",
+"edad":33,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"TOTY","media": 90}
+,{"tipo":"Destacados","media": 86}
+]}
+{"id":"f-038",
+"nombre":"K.Walker",
+"edad":31,
+"cartas":[
+{"tipo":"normal","media": 84}
+,{"tipo":"TOTY","media": 92}
+,{"tipo":"Destacados","media": 88}
+]}
+{"id":"f-039",
+"nombre":"I.Gundogan",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-040",
+"nombre":"Bernardo",
+"edad":33,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"TOTY","media": 90}
+]}
+{"id":"f-041",
+"nombre":"Silva",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}
+{"id":"f-042",
+"nombre":"R.Sterling",
+"edad":26,
+"cartas":[
+{"tipo":"normal","media": 84}
+,{"tipo":"TOTY","media": 92}
+,{"tipo":"Destacados","media": 88}
+]}
+{"id":"f-043",
+"nombre":"Gabriel Jesus",
+"edad":22,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-044",
+"nombre":"R.Mahrez",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+,{"tipo":"Destacados","media": 93}
+]}
+{"id":"f-045",
+"nombre":"R.Burki",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}
+{"id":"f-046",
+"nombre":"Raphael Guerreiro",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"TOTY","media": 88}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-047",
+"nombre":"M.Hummels",
+"edad":31,
+"cartas":[
+{"tipo":"normal","media": 80}
+]}
+{"id":"f-048",
+"nombre":"M.Akanji",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 89}
+]}
+{"id":"f-049",
+"nombre":"T.Meunier",
+"edad":33,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-050",
+"nombre":"T.Delaney",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 86}
+]}
+{"id":"f-051",
+"nombre":"M.Dahoud",
+"edad":34,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+,{"tipo":"Destacados","media": 93}
+]}
+{"id":"f-052",
+"nombre":"T.Hazard",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"TOTY","media": 89}
+]}
+{"id":"f-053",
+"nombre":"G.Reyna",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-054",
+"nombre":"J.Sancho",
+"edad":33,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"TOTY","media": 98}
+,{"tipo":"Destacados","media": 94}
+]}
+{"id":"f-055",
+"nombre":"E.Haaland",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 83}
+]}
+{"id":"f-056",
+"nombre":"W.Szczesny",
+"edad":34,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-057",
+"nombre":"Alex Sandro",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 86}
+]}
+{"id":"f-058",
+"nombre":"L.Bonucci",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"Destacados","media": 94}
+]}
+{"id":"f-059",
+"nombre":"M.Demiral",
+"edad":25,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-060",
+"nombre":"J.Cuadrado",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-061",
+"nombre":"F.Chiesa",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 87}
+]}
+{"id":"f-062",
+"nombre":"A.Raibot",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-063",
+"nombre":"R.Bentancur",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"Destacados","media": 86}
+]}
+{"id":"f-064",
+"nombre":"A.Ramsey",
+"edad":25,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"TOTY","media": 89}
+,{"tipo":"Destacados","media": 85}
+]}
+{"id":"f-065",
+"nombre":"Cristiano Ronaldo",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}
+{"id":"f-066",
+"nombre":"Morata",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 88}
+,{"tipo":"TOTY","media": 96}
+,{"tipo":"Destacados","media": 92}
+]}
+{"id":"f-067",
+"nombre":"E.Andrada",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 84}
+,{"tipo":"TOTY","media": 92}
+,{"tipo":"Destacados","media": 88}
+]}
+{"id":"f-068",
+"nombre":"M.Rojo",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"Destacados","media": 86}
+]}
+{"id":"f-069",
+"nombre":"C.Izquierdoz",
+"edad":21,
+"cartas":[
+{"tipo":"normal","media": 88}
+]}
+{"id":"f-070",
+"nombre":"C.Zambrano",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 89}
+]}
+{"id":"f-071",
+"nombre":"F.Fabra",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 82}
+,{"tipo":"TOTY","media": 90}
+,{"tipo":"Destacados","media": 86}
+]}
+{"id":"f-072",
+"nombre":"N.Capaldo",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+,{"tipo":"Destacados","media": 93}
+]}
+{"id":"f-073",
+"nombre":"J.Campuzano",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 85}
+]}
+{"id":"f-074",
+"nombre":"C.Medina",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 80}
+,{"tipo":"Destacados","media": 84}
+]}
+{"id":"f-075",
+"nombre":"G.Maroni",
+"edad":34,
+"cartas":[
+{"tipo":"normal","media": 86}
+]}
+{"id":"f-076",
+"nombre":"S.Villa",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 90}
+]}
+{"id":"f-077",
+"nombre":"C.Tevez",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 83}
+,{"tipo":"TOTY","media": 91}
+,{"tipo":"Destacados","media": 87}
+]}
+{"id":"f-078",
+"nombre":"F.Armani",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 88}
+,{"tipo":"TOTY","media": 96}
+,{"tipo":"Destacados","media": 92}
+]}
+{"id":"f-079",
+"nombre":"M.Casco",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 83}
+]}
+{"id":"f-080",
+"nombre":"P.Diaz",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 85}
+]}
+{"id":"f-081",
+"nombre":"J.Maidana",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 85}
+]}
+{"id":"f-082",
+"nombre":"A.Vigo",
+"edad":22,
+"cartas":[
+{"tipo":"normal","media": 83}
+,{"tipo":"TOTY","media": 91}
+]}
+{"id":"f-083",
+"nombre":"A.Palavecino",
+"edad":28,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+,{"tipo":"Destacados","media": 89}
+]}
+{"id":"f-084",
+"nombre":"E.Perez",
+"edad":35,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"Destacados","media": 94}
+]}
+{"id":"f-085",
+"nombre":"N.De La Cruz",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+]}
+{"id":"f-086",
+"nombre":"M.Suarez",
+"edad":27,
+"cartas":[
+{"tipo":"normal","media": 84}
+,{"tipo":"TOTY","media": 92}
+,{"tipo":"Destacados","media": 88}
+]}
+{"id":"f-087",
+"nombre":"R.Borre",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"TOTY","media": 89}
+,{"tipo":"Destacados","media": 85}
+]}
+{"id":"f-088",
+"nombre":"J.Alvarez",
+"edad":32,
+"cartas":[
+{"tipo":"normal","media": 90}
+,{"tipo":"TOTY","media": 98}
+]}
+{"id":"f-089",
+"nombre":"David De Gea",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 81}
+,{"tipo":"Destacados","media": 85}
+]}
+{"id":"f-090",
+"nombre":"L.Shaw",
+"edad":34,
+"cartas":[
+{"tipo":"normal","media": 87}
+,{"tipo":"Destacados","media": 91}
+]}
+{"id":"f-091",
+"nombre":"H.Maguire",
+"edad":21,
+"cartas":[
+{"tipo":"normal","media": 83}
+]}
+{"id":"f-092",
+"nombre":"V.Lindelof",
+"edad":24,
+"cartas":[
+{"tipo":"normal","media": 88}
+,{"tipo":"TOTY","media": 96}
+,{"tipo":"Destacados","media": 92}
+]}
+{"id":"f-093",
+"nombre":"A.Wan-Bissaka",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 89}
+,{"tipo":"TOTY","media": 97}
+,{"tipo":"Destacados","media": 93}
+]}
+{"id":"f-094",
+"nombre":"Fred",
+"edad":30,
+"cartas":[
+{"tipo":"normal","media": 87}
+,{"tipo":"TOTY","media": 95}
+]}
+{"id":"f-095",
+"nombre":"P.Pogba",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 87}
+,{"tipo":"TOTY","media": 95}
+]}
+{"id":"f-096",
+"nombre":"S.Mctominay",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 90}
+]}
+{"id":"f-097",
+"nombre":"Bruno Fernandes",
+"edad":23,
+"cartas":[
+{"tipo":"normal","media": 85}
+,{"tipo":"TOTY","media": 93}
+]}
+{"id":"f-098",
+"nombre":"M.Greenwood",
+"edad":20,
+"cartas":[
+{"tipo":"normal","media": 87}
+]}
+{"id":"f-099",
+"nombre":"M.Rashford",
+"edad":29,
+"cartas":[
+{"tipo":"normal","media": 84}
+]}

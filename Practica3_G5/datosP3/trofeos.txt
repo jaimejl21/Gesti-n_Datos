@@ -1,0 +1,300 @@
+{"nombreClub":"Dropkick",
+"miembros":["Cujo","Devi","Big Papa","Waffle"],
+"trofeos":[{"nombre":"Ligi kuu Bara","edicion":2021},{"nombre":"Coupe Federation","edicion":2017}]}
+{"nombreClub":"DrugstoreCowboy",
+"miembros":["Automatic","Cognac"],
+"trofeos":[{"nombre":"Ligi kuu Bara","edicion":2016}]}
+{"nombreClub":"DuckDuck",
+"miembros":["Artemis","Femme Fatale","Betty Cricket","Astor"],
+"trofeos":[{"nombre":"Superliga","edicion":2020},{"nombre":"Copa Chile","edicion":2020},{"nombre":"CSL","edicion":2017}]}
+{"nombreClub":"EarlofArms",
+"miembros":["Athena","Animus","AgentHercules","Derange"],
+"trofeos":[{"nombre":"UEFA Champions League","edicion":2019}]}
+{"nombreClub":"EasySweep",
+"miembros":["Arya","True Gaming Destinations","Chris","Club"],
+"trofeos":[{"nombre":"Liga Mx","edicion":2017},{"nombre":"Premier League","edicion":2016},{"nombre":"Serie A","edicion":2021}]}
+{"nombreClub":"EerieMizzen",
+"miembros":["Toreto","Agrippa","Crown Heights"],
+"trofeos":[{"nombre":"Ekstraklasa","edicion":2018}]}
+{"nombreClub":"ElactixNova",
+"miembros":["Funny Gamer Names","Cyanide","Cleo"],
+"trofeos":[{"nombre":"Liga K","edicion":2018}]}
+{"nombreClub":"ElderPogue",
+"miembros":["Egomania","Elektra"],
+"trofeos":[{"nombre":"Bundesliga","edicion":2016}]}
+{"nombreClub":"ElectricPlayer",
+"miembros":["Dismay","Annihilator","Processor Series Suffix","Claw"],
+"trofeos":[{"nombre":"Vietnam League","edicion":2019}]}
+{"nombreClub":"ElectricSaturn",
+"miembros":["Airport Hobo","Dazzler","Executioner"],
+"trofeos":[{"nombre":"Premier League","edicion":2017},{"nombre":"Copa Argentina","edicion":2019},{"nombre":"Thai League","edicion":2021}]}
+{"nombreClub":"EmberRope",
+"miembros":["Relative Performance","Feint","Beguile"],
+"trofeos":[{"nombre":"Ekstraklasa","edicion":2021},{"nombre":"Copa Emperador","edicion":2020},{"nombre":"Copa Colombia","edicion":2017}]}
+{"nombreClub":"Esquire",
+"miembros":["Alien","Streaming Wars","Albatross","Blackjack"],
+"trofeos":[{"nombre":"UEFA Europa League","edicion":2021},{"nombre":"CSL","edicion":2016},{"nombre":"Copa Colombia","edicion":2021}]}
+{"nombreClub":"ExoticAlpha",
+"miembros":["Dahlia Bumble","Exorcist","Clencher","Eon"],
+"trofeos":[{"nombre":"Ligi kuu Bara","edicion":2020},{"nombre":"Campeonato canadiense","edicion":2016}]}
+{"nombreClub":"EyeShooter",
+"miembros":["Funny Usernames","Devil Blade","Warden"],
+"trofeos":[{"nombre":"Liga K","edicion":2020},{"nombre":"Copa Mx","edicion":2018},{"nombre":"Divisi Utama","edicion":2019}]}
+{"nombreClub":"Fabulous",
+"miembros":["Dredd","Club Nola","Cereal Killer","Caprice"],
+"trofeos":[{"nombre":"Liga S","edicion":2021}]}
+{"nombreClub":"FastDraw",
+"miembros":["Bitmap","Chew Chew","Dark Matter","Higher Tier"],
+"trofeos":[{"nombre":"Liga Mx","edicion":2018},{"nombre":"Indian Super League","edicion":2016},{"nombre":"Copa Emperador","edicion":2021}]}
+{"nombreClub":"FastLane",
+"miembros":["Bludgeon","Dracula","Mohegan"],
+"trofeos":[{"nombre":"Liga Mx","edicion":2020},{"nombre":"NWSL","edicion":2018}]}
+{"nombreClub":"FatherAbbot",
+"miembros":["Eliminator","Catch-22","Barbarian"],
+"trofeos":[{"nombre":"PSL","edicion":2019}]}
+{"nombreClub":"FenderBoyXXX",
+"miembros":["Chromium","Cannon","Decay","Cool Iris"],
+"trofeos":[{"nombre":"Liga S","edicion":2016},{"nombre":"UEFA Europa League","edicion":2017}]}
+{"nombreClub":"FennelDove",
+"miembros":["Largest Gaming","Breadmaker"],
+"trofeos":[{"nombre":"Copa de Singapur","edicion":2019},{"nombre":"Copa de Malasia","edicion":2021},{"nombre":"Copa Colombia","edicion":2020}]}
+{"nombreClub":"FeralMayhem",
+"miembros":["Abyss","Boudica"],
+"trofeos":[{"nombre":"Coupe de la Ligue","edicion":2018},{"nombre":"Copa Chile","edicion":2021}]}
+{"nombreClub":"FiendOblivion",
+"miembros":["Darling Peacock","Bowser","Bruise"],
+"trofeos":[{"nombre":"Bundesliga","edicion":2017}]}
+{"nombreClub":"FifthHarmony",
+"miembros":["Eternity","Major Esports Organization","Arsenic Coo","Tiktok"],
+"trofeos":[{"nombre":"Coupe Federation","edicion":2019}]}
+{"nombreClub":"FireFeline",
+"miembros":["Axe","Duchess"],
+"trofeos":[{"nombre":"Coupe de France","edicion":2016},{"nombre":"Ligi kuu Bara","edicion":2018}]}
+{"nombreClub":"FireFish",
+"miembros":["Dallas","The Damned","Creep","Countess"],
+"trofeos":[{"nombre":"Campeonato canadiense","edicion":2018},{"nombre":"Copa Argentina","edicion":2018},{"nombre":"Copa Emperador","edicion":2019}]}
+{"nombreClub":"FireByMisFire",
+"miembros":["Crusher","Chainsaw","Congo Wire"],
+"trofeos":[{"nombre":"Copa Chile","edicion":2019},{"nombre":"Eerste Divisie","edicion":2019},{"nombre":"NASL","edicion":2018}]}
+{"nombreClub":"FistWizard",
+"miembros":["Atomic Blastoid","DaisyCraft","DanimalDaze"],
+"trofeos":[{"nombre":"PSL","edicion":2021}]}
+{"nombreClub":"Flakes",
+"miembros":["Blood","Bookie","AngelsCreed"],
+"trofeos":[{"nombre":"GNF","edicion":2016},{"nombre":"Liga S","edicion":2019},{"nombre":"Coupe de la Ligue","edicion":2019}]}
+{"nombreClub":"FlameOUT",
+"miembros":["Calamity Jane","The Daemon"],
+"trofeos":[{"nombre":"MLS","edicion":2021},{"nombre":"Indian Super League","edicion":2019},{"nombre":"Copa del Rey","edicion":2021}]}
+{"nombreClub":"Flint",
+"miembros":["Dark Horse","Toxic Friends","Manhattan"],
+"trofeos":[{"nombre":"Coppa Italia","edicion":2019},{"nombre":"Magyar Kupa","edicion":2016}]}
+{"nombreClub":"FlyGuardX",
+"miembros":["Operational Success","Craniax","Onscreen Prompts"],
+"trofeos":[{"nombre":"Coupe de France","edicion":2020},{"nombre":"Copa de Singapur","edicion":2017}]}
+{"nombreClub":"FlyingDoodle",
+"miembros":["Audacity","Enyo","The Armor","Boar"],
+"trofeos":[{"nombre":"Primeira Liga","edicion":2018},{"nombre":"Super Copa","edicion":2019},{"nombre":"Coupe Federation","edicion":2020}]}
+{"nombreClub":"FrankenGrin",
+"miembros":["Critical Role","Celebrity Creators","Cyrus"],
+"trofeos":[{"nombre":"UEFA Champions League","edicion":2016}]}
+{"nombreClub":"Freak",
+"miembros":["Bearded Angler","Digital","Falchion"],
+"trofeos":[{"nombre":"LaLiga","edicion":2019},{"nombre":"Superliga","edicion":2019},{"nombre":"Liga de estrellas","edicion":2019}]}
+{"nombreClub":"FrozenExplosion",
+"miembros":["Cyclops","Comet"],
+"trofeos":[{"nombre":"Eredivisie","edicion":2020},{"nombre":"KNVB Beker","edicion":2020}]}
+{"nombreClub":"Gadget",
+"miembros":["DriftManiac","Clever Ideas"],
+"trofeos":[{"nombre":"Thai League","edicion":2020},{"nombre":"Serie A","edicion":2018}]}
+{"nombreClub":"GasMan",
+"miembros":["Blaser","Axe-man"],
+"trofeos":[{"nombre":"Copa do Brasil","edicion":2016}]}
+{"nombreClub":"GeneralBroomdog",
+"miembros":["Eowyn","Dom","Croft","Fender"],
+"trofeos":[{"nombre":"Eredivisie","edicion":2021}]}
+{"nombreClub":"GeneralFinish",
+"miembros":["Agitator","Darko","Centurion Sherman"],
+"trofeos":[{"nombre":"NASL","edicion":2021},{"nombre":"LaLiga","edicion":2017}]}
+{"nombreClub":"Ghostrider",
+"miembros":["Chasm Face","Cool Virtual Games"],
+"trofeos":[{"nombre":"Lega Pro 1","edicion":2017}]}
+{"nombreClub":"Globalmeltdown",
+"miembros":["Cobra","Baroness"],
+"trofeos":[{"nombre":"Premier League","edicion":2018},{"nombre":"GNF","edicion":2018},{"nombre":"Copa de Malasia","edicion":2017}]}
+{"nombreClub":"Glyph",
+"miembros":["Aspect","Beta Mode","Chicago Blackout","Broomspun"],
+"trofeos":[{"nombre":"NASL","edicion":2016}]}
+{"nombreClub":"GoateeShield",
+"miembros":["Bacardi","Baltimore","Demolition"],
+"trofeos":[{"nombre":"Liga J1","edicion":2021}]}
+{"nombreClub":"GovSkull",
+"miembros":["Carbine","Bonzai","WaysToMeetYourMaker","Daffy Girl"],
+"trofeos":[{"nombre":"CSL","edicion":2018},{"nombre":"Coupe de la Ligue","edicion":2016},{"nombre":"Liga de estrellas","edicion":2018}]}
+{"nombreClub":"GraveDigger",
+"miembros":["Chuckles","Mohegan Tribe","Team Arsenic","Bread Pitt"],
+"trofeos":[{"nombre":"KNVB Beker","edicion":2018}]}
+{"nombreClub":"GreekRifle",
+"miembros":["Deviant","Deception","Day Hawk"],
+"trofeos":[{"nombre":"Serie A","edicion":2017}]}
+{"nombreClub":"GreenGhost",
+"miembros":["Blister","Clink"],
+"trofeos":[{"nombre":"Eerste Divisie","edicion":2020}]}
+{"nombreClub":"GreenScavenger",
+"miembros":["Element","Back Bett","Bane","Real Value"],
+"trofeos":[{"nombre":"NWSL","edicion":2017},{"nombre":"Copa Mx","edicion":2017},{"nombre":"Bundesliga","edicion":2019}]}
+{"nombreClub":"Guillotine",
+"miembros":["DriftDetector","Corybantic","Algonquin","Unique Identity"],
+"trofeos":[{"nombre":"Liga S","edicion":2017}]}
+{"nombreClub":"Gullyway",
+"miembros":["Diablo","My Arsenal","Prizzia","Atom"],
+"trofeos":[{"nombre":"Primeira Liga","edicion":2017},{"nombre":"NASL","edicion":2017},{"nombre":"GNF","edicion":2017}]}
+{"nombreClub":"GuncapSlingbad",
+"miembros":["Bellona","Candy Butcher","Arbitrage","Beryllium"],
+"trofeos":[{"nombre":"Liga S","edicion":2020},{"nombre":"USL Champions","edicion":2020},{"nombre":"Copa FA","edicion":2021}]}
+{"nombreClub":"Gunhawk",
+"miembros":["Apple","Diamond Gamer"],
+"trofeos":[{"nombre":"Copa de Malasia","edicion":2016},{"nombre":"NWSL","edicion":2016}]}
+{"nombreClub":"HeroOfBlackday",
+"miembros":["Dihya","Dirty Dirty","CoBolt"],
+"trofeos":[{"nombre":"Superliga","edicion":2017},{"nombre":"Copa del Rey","edicion":2017},{"nombre":"Eurocopa","edicion":2016}]}
+{"nombreClub":"HighKingdomWarrior",
+"miembros":["Berserk","Ninja","Cross Thread","Crow"],
+"trofeos":[{"nombre":"UEFA Champions League","edicion":2018},{"nombre":"Thai League","edicion":2019}]}
+{"nombreClub":"HighlanderMonk",
+"miembros":["Bender","Angel","High Frame Rate","Amaretto"],
+"trofeos":[{"nombre":"Copa del Rey","edicion":2019},{"nombre":"Copa Mx","edicion":2021},{"nombre":"Copa Argentina","edicion":2016}]}
+{"nombreClub":"Hightower",
+"miembros":["Caltrop","Cougar","Dexter"],
+"trofeos":[{"nombre":"Premier League","edicion":2019},{"nombre":"Ekstraklasa","edicion":2017}]}
+{"nombreClub":"HogButcher",
+"miembros":["Bit Sentinel","CollaterolDamage"],
+"trofeos":[{"nombre":"Lega Pro 1","edicion":2016},{"nombre":"Copa Colombia","edicion":2018},{"nombre":"Primeira Liga","edicion":2020}]}
+{"nombreClub":"HollySparta",
+"miembros":["Bowie","Unique Names","Given Moment"],
+"trofeos":[{"nombre":"Copa do Brasil","edicion":2018},{"nombre":"Coupe de France","edicion":2021},{"nombre":"Copa Argentina","edicion":2020}]}
+{"nombreClub":"Houston",
+"miembros":["Cascade","ChocoNutsX","Alpha"],
+"trofeos":[{"nombre":"Copa Argentina","edicion":2021}]}
+{"nombreClub":"HoustonRocket",
+"miembros":["Empress","Beetle King","Gaming Executive","Amazon"],
+"trofeos":[{"nombre":"USL Champions","edicion":2016}]}
+{"nombreClub":"Hyper",
+"miembros":["Window Of Opportunity","Baccarat"],
+"trofeos":[{"nombre":"Copa Mx","edicion":2020},{"nombre":"Lega Pro 1","edicion":2020},{"nombre":"Copa de los presdidentes","edicion":2018}]}
+{"nombreClub":"HyperKong",
+"miembros":["Acid Gosling","Health Tips","Camden"],
+"trofeos":[{"nombre":"LaLiga","edicion":2018},{"nombre":"Copa de Malasia","edicion":2020},{"nombre":"Copa Mx","edicion":2016}]}
+{"nombreClub":"ImpulsiveFlower",
+"miembros":["Chief Operating Officer","Mobile Device","Atalante"],
+"trofeos":[{"nombre":"Bundesliga","edicion":2021},{"nombre":"Liga de estrellas","edicion":2016},{"nombre":"UEFA Europa League","edicion":2018}]}
+{"nombreClub":"Indiana",
+"miembros":["Dissent","Black Cat","Captain Peroxide"],
+"trofeos":[{"nombre":"Eredivisie","edicion":2018},{"nombre":"Lega Pro 1","edicion":2019}]}
+{"nombreClub":"IonicHound",
+"miembros":["Blade","The Fate","Blaze"],
+"trofeos":[{"nombre":"Ekstraklasa","edicion":2016},{"nombre":"Coppa Italia","edicion":2016},{"nombre":"Liga S","edicion":2018}]}
+{"nombreClub":"JackCassidy",
+"miembros":["Darkside Orbit","Cupid Dust","Bug Fire","Dangle"],
+"trofeos":[{"nombre":"Coupe de la Ligue","edicion":2017}]}
+{"nombreClub":"JellyCamber",
+"miembros":["Belle Starr","Aspis","Anomaly","Breaker"],
+"trofeos":[{"nombre":"Copa Chile","edicion":2017},{"nombre":"HKFA","edicion":2019}]}
+{"nombreClub":"Jester",
+"miembros":["Billy the Butcher","Enchantress","Admiral Tot","Coffy"],
+"trofeos":[{"nombre":"Coupe Federation","edicion":2018},{"nombre":"Divisi Utama","edicion":2016},{"nombre":"Liga K","edicion":2019}]}
+{"nombreClub":"JesterZilla",
+"miembros":["Cool New Username","Commando","Delusion"],
+"trofeos":[{"nombre":"Copa de los presdidentes","edicion":2016},{"nombre":"Coupe de France","edicion":2017}]}
+{"nombreClub":"JigKraken",
+"miembros":["Desperado","Games Partnerships","Delirious","Centerfire"],
+"trofeos":[{"nombre":"Indian Super League","edicion":2017}]}
+{"nombreClub":"Jigsaw",
+"miembros":["Bazooka Har-de-har","Bootleg Taximan"],
+"trofeos":[{"nombre":"Magyar Kupa","edicion":2020},{"nombre":"Eredivisie","edicion":2017},{"nombre":"Primeira Liga","edicion":2016}]}
+{"nombreClub":"JokersGrin",
+"miembros":["Dux","Conqueror","Dutch"],
+"trofeos":[{"nombre":"Super Copa","edicion":2016},{"nombre":"UEFA Champions League","edicion":2021},{"nombre":"Primeira Liga","edicion":2019}]}
+{"nombreClub":"Judge",
+"miembros":["Carbon","Bullet","Cosma","Atomic"],
+"trofeos":[{"nombre":"CSL","edicion":2021},{"nombre":"USL Champions","edicion":2021},{"nombre":"HKFA","edicion":2020}]}
+{"nombreClub":"JunkyardDog",
+"miembros":["Faze Clan","Cocktail"],
+"trofeos":[{"nombre":"UEFA Europa League","edicion":2016},{"nombre":"Copa de los presdidentes","edicion":2021}]}
+{"nombreClub":"K-9",
+"miembros":["Ultimate Guide","Murray"],
+"trofeos":[{"nombre":"Thai League","edicion":2017},{"nombre":"HKFA","edicion":2017},{"nombre":"Premier League","edicion":2020}]}
+{"nombreClub":"K-TinMan",
+"miembros":["Chasm","Strong Position"],
+"trofeos":[{"nombre":"Coppa Italia","edicion":2021}]}
+{"nombreClub":"Keystone",
+"miembros":["Deep Pockets","Don Stab","Dragon","Cutlass"],
+"trofeos":[{"nombre":"Liga de estrellas","edicion":2020}]}
+{"nombreClub":"KiTParty",
+"miembros":["The Falcon","Disco Thunder"],
+"trofeos":[{"nombre":"Magyar Kupa","edicion":2018}]}
+{"nombreClub":"Kickstart",
+"miembros":["Cabbie","Chocolate Thunder"],
+"trofeos":[{"nombre":"Campeonato canadiense","edicion":2020},{"nombre":"Eurocopa","edicion":2017},{"nombre":"Coppa Italia","edicion":2018}]}
+{"nombreClub":"KillSwitch",
+"miembros":["Bullwhip","Quick Look"],
+"trofeos":[{"nombre":"Eerste Divisie","edicion":2016},{"nombre":"Eurocopa","edicion":2018},{"nombre":"UEFA Champions League","edicion":2020}]}
+{"nombreClub":"KillahGoose",
+"miembros":["Agony","Catwoman","Tech Companies","Yamecah"],
+"trofeos":[{"nombre":"Divisi Utama","edicion":2018},{"nombre":"Copa Colombia","edicion":2016},{"nombre":"Super Copa","edicion":2017}]}
+{"nombreClub":"Kingfisher",
+"miembros":["Desert Haze","Beretta"],
+"trofeos":[{"nombre":"UEFA Europa League","edicion":2020}]}
+{"nombreClub":"KingofWolfstreet",
+"miembros":["ATL","Disco Potato","Buckshot"],
+"trofeos":[{"nombre":"Serie A","edicion":2019},{"nombre":"Campeonato canadiense","edicion":2019},{"nombre":"PSL","edicion":2016}]}
+{"nombreClub":"Kitchen",
+"miembros":["Ballistic","Big Time","Stream Elements","Babylon Candle"],
+"trofeos":[{"nombre":"Copa Emperador","edicion":2018},{"nombre":"UEFA Europa League","edicion":2019}]}
+{"nombreClub":"KnightLight",
+"miembros":["Electron","Global Director","BoomBeachLuvr"],
+"trofeos":[{"nombre":"Eerste Divisie","edicion":2018}]}
+{"nombreClub":"Knuckles",
+"miembros":["Market Share","Curio"],
+"trofeos":[{"nombre":"Copa del Rey","edicion":2020},{"nombre":"Copa de Malasia","edicion":2018},{"nombre":"Liga K","edicion":2017}]}
+{"nombreClub":"KoiDiva",
+"miembros":["Boomslang","Destroyer","Cosmo"],
+"trofeos":[{"nombre":"Copa de Singapur","edicion":2020}]}
+{"nombreClub":"LFAKing",
+"miembros":["Advanced Video","Dancing Madman"],
+"trofeos":[{"nombre":"Vietnam League","edicion":2020},{"nombre":"CSL","edicion":2020}]}
+{"nombreClub":"LadyKiller",
+"miembros":["Lee Trunk","Banshee","Crash Test"],
+"trofeos":[{"nombre":"Primeira Liga","edicion":2021},{"nombre":"Eredivisie","edicion":2016}]}
+{"nombreClub":"LandfillMax",
+"miembros":["Black Mamba","Blitz"],
+"trofeos":[{"nombre":"KNVB Beker","edicion":2019},{"nombre":"Vietnam League","edicion":2016},{"nombre":"Liga J1","edicion":2018}]}
+{"nombreClub":"LavaNibbler",
+"miembros":["DiscoMate","Global Head"],
+"trofeos":[{"nombre":"Magyar Kupa","edicion":2021},{"nombre":"Coupe de France","edicion":2018}]}
+{"nombreClub":"LazyKiller",
+"miembros":["Content Creators","Kolcheff","Amazon"],
+"trofeos":[{"nombre":"GNF","edicion":2019}]}
+{"nombreClub":"LeSpank",
+"miembros":["Blevins","Ambush","Celtic Charger","Demise"],
+"trofeos":[{"nombre":"Lega Pro 1","edicion":2018},{"nombre":"Lega Pro 1","edicion":2021}]}
+{"nombreClub":"LexusGTXXX",
+"miembros":["AlphaReturns","Devil Chick","Black Beauty","Angon"],
+"trofeos":[{"nombre":"Ligi kuu Bara","edicion":2019}]}
+{"nombreClub":"LifeRobber",
+"miembros":["Entropy","Espada","Ray Pineault","Prominent Gamer"],
+"trofeos":[{"nombre":"KNVB Beker","edicion":2016},{"nombre":"MLS","edicion":2018},{"nombre":"PSL","edicion":2017}]}
+{"nombreClub":"LightLion",
+"miembros":["Queens","Core Philosophies","Elemental"],
+"trofeos":[{"nombre":"Supercopa Mx","edicion":2016}]}
+{"nombreClub":"LightInOut",
+"miembros":["Crash Override","CobraBite","Deceit"],
+"trofeos":[{"nombre":"Eerste Divisie","edicion":2021},{"nombre":"Serie A","edicion":2020},{"nombre":"Superliga","edicion":2016}]}
+{"nombreClub":"LiquidDeath",
+"miembros":["Red Light Area","Enigma","Blistered Outlaw","Olebe"],
+"trofeos":[{"nombre":"NWSL","edicion":2021},{"nombre":"Copa de Malasia","edicion":2019}]}
+{"nombreClub":"LiquidScience",
+"miembros":["Bug Blitz","CommandX","Dice"],
+"trofeos":[{"nombre":"Copa del Rey","edicion":2016}]}
+{"nombreClub":"LittleCobra",
+"miembros":["Daggers","Broadsword","Baal","Gaming Video Content"],
+"trofeos":[{"nombre":"Copa Colombia","edicion":2019},{"nombre":"Eurocopa","edicion":2021},{"nombre":"Copa de Singapur","edicion":2018}]}

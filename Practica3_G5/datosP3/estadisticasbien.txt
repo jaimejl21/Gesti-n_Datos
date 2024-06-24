@@ -1,0 +1,1000 @@
+{"jugadores":["Eliminator","Deceit"],
+"vencedor":"Deceit",
+"perdedor":"Eliminator",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":3},
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Excavator","StreamingWars"],
+"vencedor":"StreamingWars",
+"perdedor":"Excavator",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":2,
+"tiros":2},
+{"equipo":"Borussia Dortmund",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["BugBlitz","Username"],
+"vencedor":"BugBlitz",
+"perdedor":"Username",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":5,
+"tiros":5},
+{"equipo":"Manchester City",
+"goles":4,
+"tiros":5}]}
+{"jugadores":["Claymore","BlisteredOutlaw"],
+"vencedor":"Claymore",
+"perdedor":"BlisteredOutlaw",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":5,
+"tiros":6},
+{"equipo":"PSG",
+"goles":3,
+"tiros":6}]}
+{"jugadores":["Deception","CoolVirtualGames"],
+"vencedor":"Deception",
+"perdedor":"CoolVirtualGames",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":4,
+"tiros":5},
+{"equipo":"Manchester United",
+"goles":3,
+"tiros":3}]}
+{"jugadores":["DarkHorse","Cocktail"],
+"vencedor":"Cocktail",
+"perdedor":"DarkHorse",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":0,
+"tiros":3},
+{"equipo":"Barcelona",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Audacity","Axe"],
+"vencedor":"Audacity",
+"perdedor":"Axe",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":5,
+"tiros":7},
+{"equipo":"Manchester United",
+"goles":3,
+"tiros":4}]}
+{"jugadores":["Buckshot","Espada"],
+"vencedor":"Buckshot",
+"perdedor":"Espada",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":4,
+"tiros":4},
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":3}]}
+{"jugadores":["Queens","Charade"],
+"vencedor":"Charade",
+"perdedor":"Queens",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":2,
+"tiros":3},
+{"equipo":"Manchester City",
+"goles":3,
+"tiros":5}]}
+{"jugadores":["StrongPosition","Agitator"],
+"vencedor":"StrongPosition",
+"perdedor":"Agitator",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":1,
+"tiros":3},
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":3}]}
+{"jugadores":["Coffy","Dracula"],
+"vencedor":"Dracula",
+"perdedor":"Coffy",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":3},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Benelli","Axe-man"],
+"vencedor":"Benelli",
+"perdedor":"Axe-man",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":1,
+"tiros":4},
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["DarlingPeacock","Bellagio"],
+"vencedor":"Bellagio",
+"perdedor":"DarlingPeacock",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":4,
+"tiros":6},
+{"equipo":"Borussia Dortmund",
+"goles":5,
+"tiros":7}]}
+{"jugadores":["Daydream","Cutlass"],
+"vencedor":"Cutlass",
+"perdedor":"Daydream",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":0,
+"tiros":3},
+{"equipo":"Boca Juniors",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Agony","DarkMatter"],
+"vencedor":"Agony",
+"perdedor":"DarkMatter",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":5,
+"tiros":8},
+{"equipo":"Manchester City",
+"goles":2,
+"tiros":4}]}
+{"jugadores":["ChasmFace","CrissCross"],
+"vencedor":"CrissCross",
+"perdedor":"ChasmFace",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":0,
+"tiros":3},
+{"equipo":"Barcelona",
+"goles":4,
+"tiros":6}]}
+{"jugadores":["GamingVideoContent","Demise"],
+"vencedor":"GamingVideoContent",
+"perdedor":"Demise",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":4,
+"tiros":7},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["BlackCat","DonStab"],
+"vencedor":"DonStab",
+"perdedor":"BlackCat",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":0,
+"tiros":0},
+{"equipo":"Juventus",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Fender","FemmeFatale"],
+"vencedor":"FemmeFatale",
+"perdedor":"Fender",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":0,
+"tiros":3},
+{"equipo":"Manchester City",
+"goles":4,
+"tiros":7}]}
+{"jugadores":["Fortnite","DriftManiac"],
+"vencedor":"DriftManiac",
+"perdedor":"Fortnite",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":0,
+"tiros":3},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":3}]}
+{"jugadores":["Atom","CapitalF"],
+"vencedor":"Atom",
+"perdedor":"CapitalF",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":2,
+"tiros":2},
+{"equipo":"PSG",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Delusion","Explosive"],
+"vencedor":"Delusion",
+"perdedor":"Explosive",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":2,
+"tiros":5},
+{"equipo":"River Plate",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["CapitalF","Bludgeon"],
+"vencedor":"Bludgeon",
+"perdedor":"CapitalF",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":0},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["DriftManiac","Atalante"],
+"vencedor":"Atalante",
+"perdedor":"DriftManiac",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":2,
+"tiros":5},
+{"equipo":"Real Madrid",
+"goles":4,
+"tiros":6}]}
+{"jugadores":["Crank","Cascade"],
+"vencedor":"Crank",
+"perdedor":"Cascade",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":1},
+{"equipo":"PSG",
+"goles":0,
+"tiros":0}]}
+{"jugadores":["Athena","BazookaHar-de-har"],
+"vencedor":"BazookaHar-de-har",
+"perdedor":"Athena",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":0},
+{"equipo":"Barcelona",
+"goles":2,
+"tiros":3}]}
+{"jugadores":["Executioner","GamesPartnerships"],
+"vencedor":"Executioner",
+"perdedor":"GamesPartnerships",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":3,
+"tiros":3},
+{"equipo":"Borussia Dortmund",
+"goles":0,
+"tiros":3}]}
+{"jugadores":["ATL","Dementor"],
+"vencedor":"Dementor",
+"perdedor":"ATL",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":3},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":3}]}
+{"jugadores":["CapitalF","Feint"],
+"vencedor":"CapitalF",
+"perdedor":"Feint",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":1,
+"tiros":2},
+{"equipo":"Juventus",
+"goles":0,
+"tiros":2}]}
+{"jugadores":["DarlingPeacock","Daydream"],
+"vencedor":"Daydream",
+"perdedor":"DarlingPeacock",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":2,
+"tiros":3},
+{"equipo":"PSG",
+"goles":4,
+"tiros":7}]}
+{"jugadores":["Comet","AlleyFrog"],
+"vencedor":"Comet",
+"perdedor":"AlleyFrog",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":4,
+"tiros":5},
+{"equipo":"Barcelona",
+"goles":3,
+"tiros":6}]}
+{"jugadores":["Balrog","DiamondGamer"],
+"vencedor":"Balrog",
+"perdedor":"DiamondGamer",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":2,
+"tiros":4},
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":3}]}
+{"jugadores":["Aspis","CoolIris"],
+"vencedor":"CoolIris",
+"perdedor":"Aspis",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":2},
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["DriftDetector","Blister"],
+"vencedor":"DriftDetector",
+"perdedor":"Blister",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":1,
+"tiros":1},
+{"equipo":"Borussia Dortmund",
+"goles":0,
+"tiros":0}]}
+{"jugadores":["Desperado","Destroyer"],
+"vencedor":"Desperado",
+"perdedor":"Destroyer",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":4,
+"tiros":5},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["Athena","DriftDetector"],
+"vencedor":"Athena",
+"perdedor":"DriftDetector",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":3,
+"tiros":4},
+{"equipo":"Barcelona",
+"goles":2,
+"tiros":4}]}
+{"jugadores":["OnscreenPrompts","FlagshipProperty"],
+"vencedor":"FlagshipProperty",
+"perdedor":"OnscreenPrompts",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":2,
+"tiros":3},
+{"equipo":"Juventus",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["DarlingPeacock","Yamecah"],
+"vencedor":"DarlingPeacock",
+"perdedor":"Yamecah",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":3},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Doom","TellTaleSigns"],
+"vencedor":"TellTaleSigns",
+"perdedor":"Doom",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":2,
+"tiros":2},
+{"equipo":"Boca Juniors",
+"goles":4,
+"tiros":4}]}
+{"jugadores":["Crossbow","MajorEsportsOrganization"],
+"vencedor":"Crossbow",
+"perdedor":"MajorEsportsOrganization",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":3,
+"tiros":3},
+{"equipo":"Boca Juniors",
+"goles":2,
+"tiros":4}]}
+{"jugadores":["DoubleDouble","Baccarat"],
+"vencedor":"Baccarat",
+"perdedor":"DoubleDouble",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":6},
+{"equipo":"River Plate",
+"goles":4,
+"tiros":5}]}
+{"jugadores":["Crazed","Curio"],
+"vencedor":"Curio",
+"perdedor":"Crazed",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":2,
+"tiros":5},
+{"equipo":"Juventus",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["Bomber","Decay"],
+"vencedor":"Bomber",
+"perdedor":"Decay",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":1,
+"tiros":4},
+{"equipo":"Borussia Dortmund",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["Dice","Desperado"],
+"vencedor":"Desperado",
+"perdedor":"Dice",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":0,
+"tiros":2},
+{"equipo":"River Plate",
+"goles":3,
+"tiros":5}]}
+{"jugadores":["Aspect","Beryllium"],
+"vencedor":"Beryllium",
+"perdedor":"Aspect",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":2},
+{"equipo":"River Plate",
+"goles":4,
+"tiros":7}]}
+{"jugadores":["Blitz","Cobra"],
+"vencedor":"Cobra",
+"perdedor":"Blitz",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":4},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["Anomaly","BillytheButcher"],
+"vencedor":"Anomaly",
+"perdedor":"BillytheButcher",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":4,
+"tiros":6},
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["Dismay","Conqueror"],
+"vencedor":"Dismay",
+"perdedor":"Conqueror",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":3,
+"tiros":3},
+{"equipo":"Manchester City",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["Clencher","CrossThread"],
+"vencedor":"CrossThread",
+"perdedor":"Clencher",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":4,
+"tiros":7},
+{"equipo":"Real Madrid",
+"goles":5,
+"tiros":8}]}
+{"jugadores":["DevilBlade","ToxicFriends"],
+"vencedor":"ToxicFriends",
+"perdedor":"DevilBlade",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":0,
+"tiros":1},
+{"equipo":"Boca Juniors",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Blackjack","Blaser"],
+"vencedor":"Blaser",
+"perdedor":"Blackjack",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":1,
+"tiros":3},
+{"equipo":"Manchester City",
+"goles":2,
+"tiros":2}]}
+{"jugadores":["Olebe","Digger"],
+"vencedor":"Olebe",
+"perdedor":"Digger",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":5},
+{"equipo":"Borussia Dortmund",
+"goles":0,
+"tiros":3}]}
+{"jugadores":["Algonquin","Conqueror"],
+"vencedor":"Conqueror",
+"perdedor":"Algonquin",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":1},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["CandyButcher","Enyo"],
+"vencedor":"CandyButcher",
+"perdedor":"Enyo",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":3,
+"tiros":3},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":3}]}
+{"jugadores":["Chasm","BeardedAngler"],
+"vencedor":"BeardedAngler",
+"perdedor":"Chasm",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":0},
+{"equipo":"Manchester United",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["Crafty","AccidentalGenius"],
+"vencedor":"Crafty",
+"perdedor":"AccidentalGenius",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":1,
+"tiros":3},
+{"equipo":"Manchester United",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["Claw","CrownHeights"],
+"vencedor":"Claw",
+"perdedor":"CrownHeights",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":4,
+"tiros":6},
+{"equipo":"River Plate",
+"goles":3,
+"tiros":4}]}
+{"jugadores":["Empress","Pineault"],
+"vencedor":"Pineault",
+"perdedor":"Empress",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":0,
+"tiros":3},
+{"equipo":"Barcelona",
+"goles":3,
+"tiros":6}]}
+{"jugadores":["Dice","Crucible"],
+"vencedor":"Dice",
+"perdedor":"Crucible",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":1,
+"tiros":3},
+{"equipo":"Manchester City",
+"goles":0,
+"tiros":2}]}
+{"jugadores":["Dutch","AutomaticSlicer"],
+"vencedor":"Dutch",
+"perdedor":"AutomaticSlicer",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":2,
+"tiros":2},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Derange","Countess"],
+"vencedor":"Countess",
+"perdedor":"Derange",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":2,
+"tiros":3},
+{"equipo":"Borussia Dortmund",
+"goles":4,
+"tiros":6}]}
+{"jugadores":["Don","DevilBlade"],
+"vencedor":"DevilBlade",
+"perdedor":"Don",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":1,
+"tiros":4},
+{"equipo":"Manchester City",
+"goles":2,
+"tiros":4}]}
+{"jugadores":["TellTaleSigns","Don"],
+"vencedor":"Don",
+"perdedor":"TellTaleSigns",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":0,
+"tiros":2},
+{"equipo":"Boca Juniors",
+"goles":5,
+"tiros":8}]}
+{"jugadores":["Dementor","Audacity"],
+"vencedor":"Audacity",
+"perdedor":"Dementor",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":3},
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["Breadmaker","CapitalF"],
+"vencedor":"CapitalF",
+"perdedor":"Breadmaker",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":3},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["Manhattan","BlackBeauty"],
+"vencedor":"BlackBeauty",
+"perdedor":"Manhattan",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":1,
+"tiros":3},
+{"equipo":"Manchester United",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["Decay","Ninja"],
+"vencedor":"Ninja",
+"perdedor":"Decay",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":2,
+"tiros":2},
+{"equipo":"Borussia Dortmund",
+"goles":5,
+"tiros":6}]}
+{"jugadores":["Pineault","Dangle"],
+"vencedor":"Dangle",
+"perdedor":"Pineault",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":2},
+{"equipo":"Manchester City",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["BoomBeachLuvr","Crucible"],
+"vencedor":"Crucible",
+"perdedor":"BoomBeachLuvr",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":1},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["DiscoMate","EnvyGaming"],
+"vencedor":"DiscoMate",
+"perdedor":"EnvyGaming",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":3,
+"tiros":4},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["ChicagoBlackout","Baroness"],
+"vencedor":"Baroness",
+"perdedor":"ChicagoBlackout",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":1},
+{"equipo":"Manchester City",
+"goles":3,
+"tiros":4}]}
+{"jugadores":["DanimalDaze","CrashOverride"],
+"vencedor":"DanimalDaze",
+"perdedor":"CrashOverride",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":2,
+"tiros":2},
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":3}]}
+{"jugadores":["Decay","DriftManiac"],
+"vencedor":"DriftManiac",
+"perdedor":"Decay",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":2,
+"tiros":4},
+{"equipo":"Barcelona",
+"goles":4,
+"tiros":6}]}
+{"jugadores":["GlobalHead","Bender"],
+"vencedor":"Bender",
+"perdedor":"GlobalHead",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":0,
+"tiros":1},
+{"equipo":"River Plate",
+"goles":2,
+"tiros":2}]}
+{"jugadores":["Amaretto","Curio"],
+"vencedor":"Curio",
+"perdedor":"Amaretto",
+"estadisticas":[
+{"equipo":"Real Madrid",
+"goles":1,
+"tiros":1},
+{"equipo":"PSG",
+"goles":2,
+"tiros":3}]}
+{"jugadores":["BlackCat","MoheganTribe"],
+"vencedor":"MoheganTribe",
+"perdedor":"BlackCat",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":0,
+"tiros":1},
+{"equipo":"PSG",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["Jamaica","Barbarian"],
+"vencedor":"Barbarian",
+"perdedor":"Jamaica",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":0,
+"tiros":2},
+{"equipo":"Manchester City",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["Countess","RenameCard"],
+"vencedor":"Countess",
+"perdedor":"RenameCard",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":5,
+"tiros":6},
+{"equipo":"PSG",
+"goles":0,
+"tiros":2}]}
+{"jugadores":["BloodEater","CrissCross"],
+"vencedor":"BloodEater",
+"perdedor":"CrissCross",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":1,
+"tiros":1},
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":0}]}
+{"jugadores":["Chainsaw","ArsenicCoo"],
+"vencedor":"Chainsaw",
+"perdedor":"ArsenicCoo",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":5,
+"tiros":8},
+{"equipo":"Borussia Dortmund",
+"goles":4,
+"tiros":7}]}
+{"jugadores":["Chuckles","Kolcheff"],
+"vencedor":"Chuckles",
+"perdedor":"Kolcheff",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":5},
+{"equipo":"Juventus",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["Bacardi","Doom"],
+"vencedor":"Bacardi",
+"perdedor":"Doom",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":4,
+"tiros":6},
+{"equipo":"Boca Juniors",
+"goles":2,
+"tiros":3}]}
+{"jugadores":["Dissent","Demolition"],
+"vencedor":"Dissent",
+"perdedor":"Demolition",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":3,
+"tiros":5},
+{"equipo":"Juventus",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["AirportHobo","Diviner"],
+"vencedor":"Diviner",
+"perdedor":"AirportHobo",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":0,
+"tiros":1},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Blaser","Bugger"],
+"vencedor":"Bugger",
+"perdedor":"Blaser",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":0,
+"tiros":1},
+{"equipo":"PSG",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Eowyn","Deceit"],
+"vencedor":"Eowyn",
+"perdedor":"Deceit",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":4,
+"tiros":7},
+{"equipo":"PSG",
+"goles":2,
+"tiros":5}]}
+{"jugadores":["Dragon","Elemental"],
+"vencedor":"Elemental",
+"perdedor":"Dragon",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":4,
+"tiros":6},
+{"equipo":"Manchester City",
+"goles":5,
+"tiros":7}]}
+{"jugadores":["Bludgeon","Beguile"],
+"vencedor":"Beguile",
+"perdedor":"Bludgeon",
+"estadisticas":[
+{"equipo":"Borussia Dortmund",
+"goles":3,
+"tiros":4},
+{"equipo":"Barcelona",
+"goles":5,
+"tiros":5}]}
+{"jugadores":["Cut","BetaMode"],
+"vencedor":"Cut",
+"perdedor":"BetaMode",
+"estadisticas":[
+{"equipo":"Manchester United",
+"goles":2,
+"tiros":4},
+{"equipo":"Borussia Dortmund",
+"goles":1,
+"tiros":2}]}
+{"jugadores":["Dredd","TheDamned"],
+"vencedor":"Dredd",
+"perdedor":"TheDamned",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":6},
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":0}]}
+{"jugadores":["GlobalDirector","Crusher"],
+"vencedor":"Crusher",
+"perdedor":"GlobalDirector",
+"estadisticas":[
+{"equipo":"Manchester City",
+"goles":0,
+"tiros":3},
+{"equipo":"Juventus",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Bowler","Amaretto"],
+"vencedor":"Amaretto",
+"perdedor":"Bowler",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":1,
+"tiros":2},
+{"equipo":"Borussia Dortmund",
+"goles":3,
+"tiros":3}]}
+{"jugadores":["Club","TeamArsenic"],
+"vencedor":"TeamArsenic",
+"perdedor":"Club",
+"estadisticas":[
+{"equipo":"Juventus",
+"goles":2,
+"tiros":2},
+{"equipo":"Real Madrid",
+"goles":3,
+"tiros":6}]}
+{"jugadores":["Craniax","RedLightArea"],
+"vencedor":"Craniax",
+"perdedor":"RedLightArea",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":3,
+"tiros":6},
+{"equipo":"Manchester United",
+"goles":2,
+"tiros":4}]}
+{"jugadores":["OperationalSuccess","Coyote"],
+"vencedor":"Coyote",
+"perdedor":"OperationalSuccess",
+"estadisticas":[
+{"equipo":"Barcelona",
+"goles":0,
+"tiros":1},
+{"equipo":"Barcelona",
+"goles":1,
+"tiros":1}]}
+{"jugadores":["Cut","Chromium"],
+"vencedor":"Chromium",
+"perdedor":"Cut",
+"estadisticas":[
+{"equipo":"River Plate",
+"goles":2,
+"tiros":2},
+{"equipo":"River Plate",
+"goles":3,
+"tiros":4}]}
+{"jugadores":["Claw","Chris"],
+"vencedor":"Chris",
+"perdedor":"Claw",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":0,
+"tiros":2},
+{"equipo":"Real Madrid",
+"goles":1,
+"tiros":4}]}
+{"jugadores":["ProcessorSeriesSuffix","Dementor"],
+"vencedor":"ProcessorSeriesSuffix",
+"perdedor":"Dementor",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":2,
+"tiros":5},
+{"equipo":"River Plate",
+"goles":1,
+"tiros":3}]}
+{"jugadores":["DevinNash","Demented"],
+"vencedor":"DevinNash",
+"perdedor":"Demented",
+"estadisticas":[
+{"equipo":"PSG",
+"goles":4,
+"tiros":6},
+{"equipo":"Real Madrid",
+"goles":0,
+"tiros":1}]}
+{"jugadores":["Crafty","Bullwhip"],
+"vencedor":"Crafty",
+"perdedor":"Bullwhip",
+"estadisticas":[
+{"equipo":"Boca Juniors",
+"goles":5,
+"tiros":8},
+{"equipo":"Manchester United",
+"goles":1,
+"tiros":2}]}
