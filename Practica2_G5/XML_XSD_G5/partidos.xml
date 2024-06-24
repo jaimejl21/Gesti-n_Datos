@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <partidos  xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="partidos.xsd">
+        <partido idPartido='partido-001'>
+            <jugadores>
+                <jugador>DesertHaze</jugador>
+                <jugador>CerealKiller</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>CerealKiller</jugadorGanador>
+            <sala>s160</sala>
+        </partido>
+         
+        <partido idPartido='partido-002'>
+            <jugadores>
+                <jugador>DayHawk</jugador>
+                <jugador>DonStab</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DayHawk</jugadorGanador>
+            <sala>s119</sala>
+        </partido>
+         
+        <partido idPartido='partido-003'>
+            <jugadores>
+                <jugador>Blister</jugador>
+                <jugador>DarksideOrbit</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>DarksideOrbit</jugadorGanador>
+            <sala>s104</sala>
+        </partido>
+         
+        <partido idPartido='partido-004'>
+            <jugadores>
+                <jugador>DonStab</jugador>
+                <jugador>Digger</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>DonStab</jugadorGanador>
+            <sala>s46</sala>
+        </partido>
+         
+        <partido idPartido='partido-005'>
+            <jugadores>
+                <jugador>Commando</jugador>
+                <jugador>DevilChick</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>DevilChick</jugadorGanador>
+            <sala>s109</sala>
+        </partido>
+         
+        <partido idPartido='partido-006'>
+            <jugadores>
+                <jugador>ChasmFace</jugador>
+                <jugador>BackBett</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>BackBett</jugadorGanador>
+            <sala>s197</sala>
+        </partido>
+         
+        <partido idPartido='partido-007'>
+            <jugadores>
+                <jugador>BugBlitz</jugador>
+                <jugador>DanimalDaze</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>DanimalDaze</jugadorGanador>
+            <sala>s133</sala>
+        </partido>
+         
+        <partido idPartido='partido-008'>
+            <jugadores>
+                <jugador>CrazyEights</jugador>
+                <jugador>CandyButcher</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>CrazyEights</jugadorGanador>
+            <sala>s102</sala>
+        </partido>
+         
+        <partido idPartido='partido-009'>
+            <jugadores>
+                <jugador>DozKiller</jugador>
+                <jugador>AutomaticSlicer</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>DozKiller</jugadorGanador>
+            <sala>s138</sala>
+        </partido>
+         
+        <partido idPartido='partido-010'>
+            <jugadores>
+                <jugador>CobraBite</jugador>
+                <jugador>DancingMadman</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>DancingMadman</jugadorGanador>
+            <sala>s178</sala>
+        </partido>
+         
+        <partido idPartido='partido-011'>
+            <jugadores>
+                <jugador>DiscoPotato</jugador>
+                <jugador>CerealKiller</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>DiscoPotato</jugadorGanador>
+            <sala>s183</sala>
+        </partido>
+         
+        <partido idPartido='partido-012'>
+            <jugadores>
+                <jugador>BadBunny</jugador>
+                <jugador>CapitalF</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>BadBunny</jugadorGanador>
+            <sala>s187</sala>
+        </partido>
+         
+        <partido idPartido='partido-013'>
+            <jugadores>
+                <jugador>CelticCharger</jugador>
+                <jugador>CenturionSherman</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>CenturionSherman</jugadorGanador>
+            <sala>s179</sala>
+        </partido>
+         
+        <partido idPartido='partido-014'>
+            <jugadores>
+                <jugador>DarkHorse</jugador>
+                <jugador>CoBolt</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>CoBolt</jugadorGanador>
+            <sala>s15</sala>
+        </partido>
+         
+        <partido idPartido='partido-015'>
+            <jugadores>
+                <jugador>DiscoMate</jugador>
+                <jugador>Bowler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DiscoMate</jugadorGanador>
+            <sala>s30</sala>
+        </partido>
+         
+        <partido idPartido='partido-016'>
+            <jugadores>
+                <jugador>DiamondGamer</jugador>
+                <jugador>ArsenicCoo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>ArsenicCoo</jugadorGanador>
+            <sala>s10</sala>
+        </partido>
+         
+        <partido idPartido='partido-017'>
+            <jugadores>
+                <jugador>CerealKiller</jugador>
+                <jugador>CrissCross</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>CerealKiller</jugadorGanador>
+            <sala>s117</sala>
+        </partido>
+         
+        <partido idPartido='partido-018'>
+            <jugadores>
+                <jugador>Blister</jugador>
+                <jugador>DevilChick</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>Blister</jugadorGanador>
+            <sala>s143</sala>
+        </partido>
+         
+        <partido idPartido='partido-019'>
+            <jugadores>
+                <jugador>Alpha</jugador>
+                <jugador>Blister</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>Alpha</jugadorGanador>
+            <sala>s110</sala>
+        </partido>
+         
+        <partido idPartido='partido-020'>
+            <jugadores>
+                <jugador>CrossThread</jugador>
+                <jugador>AirportHobo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>CrossThread</jugadorGanador>
+            <sala>s181</sala>
+        </partido>
+         
+        <partido idPartido='partido-021'>
+            <jugadores>
+                <jugador>AngelsCreed</jugador>
+                <jugador>CollaterolDamage</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>AngelsCreed</jugadorGanador>
+            <sala>s172</sala>
+        </partido>
+         
+        <partido idPartido='partido-022'>
+            <jugadores>
+                <jugador>Cocktail</jugador>
+                <jugador>DancingMadman</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>Cocktail</jugadorGanador>
+            <sala>s78</sala>
+        </partido>
+         
+        <partido idPartido='partido-023'>
+            <jugadores>
+                <jugador>DevilBlade</jugador>
+                <jugador>DarksideOrbit</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>DarksideOrbit</jugadorGanador>
+            <sala>s66</sala>
+        </partido>
+         
+        <partido idPartido='partido-024'>
+            <jugadores>
+                <jugador>BloodEater</jugador>
+                <jugador>AngelsCreed</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>AngelsCreed</jugadorGanador>
+            <sala>s190</sala>
+        </partido>
+         
+        <partido idPartido='partido-025'>
+            <jugadores>
+                <jugador>BackBett</jugador>
+                <jugador>Cujo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>BackBett</jugadorGanador>
+            <sala>s195</sala>
+        </partido>
+         
+        <partido idPartido='partido-026'>
+            <jugadores>
+                <jugador>Cosmo</jugador>
+                <jugador>CollaterolDamage</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>Cosmo</jugadorGanador>
+            <sala>s154</sala>
+        </partido>
+         
+        <partido idPartido='partido-027'>
+            <jugadores>
+                <jugador>AcidGosling</jugador>
+                <jugador>DonStab</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>DonStab</jugadorGanador>
+            <sala>s114</sala>
+        </partido>
+         
+        <partido idPartido='partido-028'>
+            <jugadores>
+                <jugador>Bonzai</jugador>
+                <jugador>Bowie</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>Bowie</jugadorGanador>
+            <sala>s119</sala>
+        </partido>
+         
+        <partido idPartido='partido-029'>
+            <jugadores>
+                <jugador>CoBolt</jugador>
+                <jugador>BugFire</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>CoBolt</jugadorGanador>
+            <sala>s180</sala>
+        </partido>
+         
+        <partido idPartido='partido-030'>
+            <jugadores>
+                <jugador>DahliaBumble</jugador>
+                <jugador>CoBolt</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>CoBolt</jugadorGanador>
+            <sala>s95</sala>
+        </partido>
+         
+        <partido idPartido='partido-031'>
+            <jugadores>
+                <jugador>AccidentalGenius</jugador>
+                <jugador>DiscoMate</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>DiscoMate</jugadorGanador>
+            <sala>s157</sala>
+        </partido>
+         
+        <partido idPartido='partido-032'>
+            <jugadores>
+                <jugador>DarlingPeacock</jugador>
+                <jugador>BackBett</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>DarlingPeacock</jugadorGanador>
+            <sala>s32</sala>
+        </partido>
+         
+        <partido idPartido='partido-033'>
+            <jugadores>
+                <jugador>Pixels</jugador>
+                <jugador>BlacKitten</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>Pixels</jugadorGanador>
+            <sala>s176</sala>
+        </partido>
+         
+        <partido idPartido='partido-034'>
+            <jugadores>
+                <jugador>CapitalF</jugador>
+                <jugador>Bowler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>CapitalF</jugadorGanador>
+            <sala>s18</sala>
+        </partido>
+         
+        <partido idPartido='partido-035'>
+            <jugadores>
+                <jugador>DancingMadman</jugador>
+                <jugador>ChasmFace</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>DancingMadman</jugadorGanador>
+            <sala>s28</sala>
+        </partido>
+         
+        <partido idPartido='partido-036'>
+            <jugadores>
+                <jugador>AlphaReturns</jugador>
+                <jugador>CandyButcher</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>AlphaReturns</jugadorGanador>
+            <sala>s27</sala>
+        </partido>
+         
+        <partido idPartido='partido-037'>
+            <jugadores>
+                <jugador>CongoWire</jugador>
+                <jugador>Cujo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>CongoWire</jugadorGanador>
+            <sala>s174</sala>
+        </partido>
+         
+        <partido idPartido='partido-038'>
+            <jugadores>
+                <jugador>DahliaBumble</jugador>
+                <jugador>AcidGosling</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>AcidGosling</jugadorGanador>
+            <sala>s61</sala>
+        </partido>
+         
+        <partido idPartido='partido-039'>
+            <jugadores>
+                <jugador>Bitmap</jugador>
+                <jugador>CobraBite</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>Bitmap</jugadorGanador>
+            <sala>s99</sala>
+        </partido>
+         
+        <partido idPartido='partido-040'>
+            <jugadores>
+                <jugador>Chuckles</jugador>
+                <jugador>Angel</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>Chuckles</jugadorGanador>
+            <sala>s25</sala>
+        </partido>
+         
+        <partido idPartido='partido-041'>
+            <jugadores>
+                <jugador>Dredd</jugador>
+                <jugador>DancingMadman</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>DancingMadman</jugadorGanador>
+            <sala>s56</sala>
+        </partido>
+         
+        <partido idPartido='partido-042'>
+            <jugadores>
+                <jugador>BootlegTaximan</jugador>
+                <jugador>Cujo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>Cujo</jugadorGanador>
+            <sala>s133</sala>
+        </partido>
+         
+        <partido idPartido='partido-043'>
+            <jugadores>
+                <jugador>AcidGosling</jugador>
+                <jugador>ArsenicCoo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>AcidGosling</jugadorGanador>
+            <sala>s140</sala>
+        </partido>
+         
+        <partido idPartido='partido-044'>
+            <jugadores>
+                <jugador>CongoWire</jugador>
+                <jugador>DonStab</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>DonStab</jugadorGanador>
+            <sala>s152</sala>
+        </partido>
+         
+        <partido idPartido='partido-045'>
+            <jugadores>
+                <jugador>DaffyGirl</jugador>
+                <jugador>CoolIris</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>DaffyGirl</jugadorGanador>
+            <sala>s93</sala>
+        </partido>
+         
+        <partido idPartido='partido-046'>
+            <jugadores>
+                <jugador>CoolIris</jugador>
+                <jugador>CrossThread</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>CoolIris</jugadorGanador>
+            <sala>s88</sala>
+        </partido>
+         
+        <partido idPartido='partido-047'>
+            <jugadores>
+                <jugador>CenturionSherman</jugador>
+                <jugador>Dexter</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>CenturionSherman</jugadorGanador>
+            <sala>s153</sala>
+        </partido>
+         
+        <partido idPartido='partido-048'>
+            <jugadores>
+                <jugador>DevilChick</jugador>
+                <jugador>BeetleKing</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>BeetleKing</jugadorGanador>
+            <sala>s99</sala>
+        </partido>
+         
+        <partido idPartido='partido-049'>
+            <jugadores>
+                <jugador>AgentHercules</jugador>
+                <jugador>Bugger</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>Bugger</jugadorGanador>
+            <sala>s170</sala>
+        </partido>
+         
+        <partido idPartido='partido-050'>
+            <jugadores>
+                <jugador>CaptainPeroxide</jugador>
+                <jugador>AdmiralTot</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>AdmiralTot</jugadorGanador>
+            <sala>s106</sala>
+        </partido>
+         
+        <partido idPartido='partido-051'>
+            <jugadores>
+                <jugador>Alpha</jugador>
+                <jugador>DiscoPotato</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DiscoPotato</jugadorGanador>
+            <sala>s179</sala>
+        </partido>
+         
+        <partido idPartido='partido-052'>
+            <jugadores>
+                <jugador>CenturionSherman</jugador>
+                <jugador>Bowler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>Bowler</jugadorGanador>
+            <sala>s31</sala>
+        </partido>
+         
+        <partido idPartido='partido-053'>
+            <jugadores>
+                <jugador>DriftManiac</jugador>
+                <jugador>DaffyGirl</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>DriftManiac</jugadorGanador>
+            <sala>s129</sala>
+        </partido>
+         
+        <partido idPartido='partido-054'>
+            <jugadores>
+                <jugador>ArsenicCoo</jugador>
+                <jugador>Dexter</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>ArsenicCoo</jugadorGanador>
+            <sala>s93</sala>
+        </partido>
+         
+        <partido idPartido='partido-055'>
+            <jugadores>
+                <jugador>CrashOverride</jugador>
+                <jugador>CoolIris</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>CoolIris</jugadorGanador>
+            <sala>s102</sala>
+        </partido>
+         
+        <partido idPartido='partido-056'>
+            <jugadores>
+                <jugador>DriftManiac</jugador>
+                <jugador>AutomaticSlicer</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>DriftManiac</jugadorGanador>
+            <sala>s95</sala>
+        </partido>
+         
+        <partido idPartido='partido-057'>
+            <jugadores>
+                <jugador>CrossThread</jugador>
+                <jugador>Desperado</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>CrossThread</jugadorGanador>
+            <sala>s101</sala>
+        </partido>
+         
+        <partido idPartido='partido-058'>
+            <jugadores>
+                <jugador>CelticCharger</jugador>
+                <jugador>DayHawk</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>CelticCharger</jugadorGanador>
+            <sala>s177</sala>
+        </partido>
+         
+        <partido idPartido='partido-059'>
+            <jugadores>
+                <jugador>DozKiller</jugador>
+                <jugador>Broomspun</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>Broomspun</jugadorGanador>
+            <sala>s134</sala>
+        </partido>
+         
+        <partido idPartido='partido-060'>
+            <jugadores>
+                <jugador>AcidGosling</jugador>
+                <jugador>DanimalDaze</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>DanimalDaze</jugadorGanador>
+            <sala>s38</sala>
+        </partido>
+         
+        <partido idPartido='partido-061'>
+            <jugadores>
+                <jugador>DevilChick</jugador>
+                <jugador>DonStab</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>River Plate</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>DevilChick</jugadorGanador>
+            <sala>s133</sala>
+        </partido>
+         
+        <partido idPartido='partido-062'>
+            <jugadores>
+                <jugador>Alpha</jugador>
+                <jugador>ChewChew</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>ChewChew</jugadorGanador>
+            <sala>s26</sala>
+        </partido>
+         
+        <partido idPartido='partido-063'>
+            <jugadores>
+                <jugador>DarkHorse</jugador>
+                <jugador>CongoWire</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Juventus</equipoGanador>
+            <jugadorGanador>DarkHorse</jugadorGanador>
+            <sala>s117</sala>
+        </partido>
+         
+        <partido idPartido='partido-064'>
+            <jugadores>
+                <jugador>BloodEater</jugador>
+                <jugador>DiscoMate</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>DiscoMate</jugadorGanador>
+            <sala>s56</sala>
+        </partido>
+         
+        <partido idPartido='partido-065'>
+            <jugadores>
+                <jugador>CaptainPeroxide</jugador>
+                <jugador>Bowler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>CaptainPeroxide</jugadorGanador>
+            <sala>s59</sala>
+        </partido>
+         
+        <partido idPartido='partido-066'>
+            <jugadores>
+                <jugador>DanimalDaze</jugador>
+                <jugador>ClubNola</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DanimalDaze</jugadorGanador>
+            <sala>s138</sala>
+        </partido>
+         
+        <partido idPartido='partido-067'>
+            <jugadores>
+                <jugador>ChicagoBlackout</jugador>
+                <jugador>DesertHaze</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>ChicagoBlackout</jugadorGanador>
+            <sala>s24</sala>
+        </partido>
+         
+        <partido idPartido='partido-068'>
+            <jugadores>
+                <jugador>DiamondGamer</jugador>
+                <jugador>ClubNola</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>DiamondGamer</jugadorGanador>
+            <sala>s98</sala>
+        </partido>
+         
+        <partido idPartido='partido-069'>
+            <jugadores>
+                <jugador>ChasmFace</jugador>
+                <jugador>Bitmap</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>Manchester United</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>ChasmFace</jugadorGanador>
+            <sala>s39</sala>
+        </partido>
+         
+        <partido idPartido='partido-070'>
+            <jugadores>
+                <jugador>AcidGosling</jugador>
+                <jugador>Blitz</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>AcidGosling</jugadorGanador>
+            <sala>s158</sala>
+        </partido>
+         
+        <partido idPartido='partido-071'>
+            <jugadores>
+                <jugador>Bugger</jugador>
+                <jugador>BadBunny</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>Bugger</jugadorGanador>
+            <sala>s95</sala>
+        </partido>
+         
+        <partido idPartido='partido-072'>
+            <jugadores>
+                <jugador>AngelsCreed</jugador>
+                <jugador>Broomspun</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>AngelsCreed</jugadorGanador>
+            <sala>s48</sala>
+        </partido>
+         
+        <partido idPartido='partido-073'>
+            <jugadores>
+                <jugador>CrissCross</jugador>
+                <jugador>Cocktail</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>CrissCross</jugadorGanador>
+            <sala>s14</sala>
+        </partido>
+         
+        <partido idPartido='partido-074'>
+            <jugadores>
+                <jugador>DahliaBumble</jugador>
+                <jugador>Bowler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>DahliaBumble</jugadorGanador>
+            <sala>s57</sala>
+        </partido>
+         
+        <partido idPartido='partido-075'>
+            <jugadores>
+                <jugador>AdmiralTot</jugador>
+                <jugador>CoolWhip</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>AdmiralTot</jugadorGanador>
+            <sala>s91</sala>
+        </partido>
+         
+        <partido idPartido='partido-076'>
+            <jugadores>
+                <jugador>BeetleKing</jugador>
+                <jugador>DevilChick</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>DevilChick</jugadorGanador>
+            <sala>s89</sala>
+        </partido>
+         
+        <partido idPartido='partido-077'>
+            <jugadores>
+                <jugador>BootlegTaximan</jugador>
+                <jugador>DevilChick</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>DevilChick</jugadorGanador>
+            <sala>s189</sala>
+        </partido>
+         
+        <partido idPartido='partido-078'>
+            <jugadores>
+                <jugador>Alpha</jugador>
+                <jugador>BootlegTaximan</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>BootlegTaximan</jugadorGanador>
+            <sala>s120</sala>
+        </partido>
+         
+        <partido idPartido='partido-079'>
+            <jugadores>
+                <jugador>ChipQueen</jugador>
+                <jugador>Chuckles</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>Chuckles</jugadorGanador>
+            <sala>s192</sala>
+        </partido>
+         
+        <partido idPartido='partido-080'>
+            <jugadores>
+                <jugador>BlacKitten</jugador>
+                <jugador>ChewChew</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>BlacKitten</jugadorGanador>
+            <sala>s5</sala>
+        </partido>
+         
+        <partido idPartido='partido-081'>
+            <jugadores>
+                <jugador>BabyBrown</jugador>
+                <jugador>CoBolt</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester United</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Manchester United</equipoGanador>
+            <jugadorGanador>BabyBrown</jugadorGanador>
+            <sala>s101</sala>
+        </partido>
+         
+        <partido idPartido='partido-082'>
+            <jugadores>
+                <jugador>CupidDust</jugador>
+                <jugador>AirportHobo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>CupidDust</jugadorGanador>
+            <sala>s104</sala>
+        </partido>
+         
+        <partido idPartido='partido-083'>
+            <jugadores>
+                <jugador>Dangle</jugador>
+                <jugador>AlleyFrog</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>AlleyFrog</jugadorGanador>
+            <sala>s141</sala>
+        </partido>
+         
+        <partido idPartido='partido-084'>
+            <jugadores>
+                <jugador>DayHawk</jugador>
+                <jugador>Broomspun</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Real Madrid</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>DayHawk</jugadorGanador>
+            <sala>s3</sala>
+        </partido>
+         
+        <partido idPartido='partido-085'>
+            <jugadores>
+                <jugador>CelticCharger</jugador>
+                <jugador>CaptainPeroxide</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Barcelona</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>CelticCharger</jugadorGanador>
+            <sala>s82</sala>
+        </partido>
+         
+        <partido idPartido='partido-086'>
+            <jugadores>
+                <jugador>Digger</jugador>
+                <jugador>Waffle</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Real Madrid</equipoGanador>
+            <jugadorGanador>Waffle</jugadorGanador>
+            <sala>s185</sala>
+        </partido>
+         
+        <partido idPartido='partido-087'>
+            <jugadores>
+                <jugador>AgentHercules</jugador>
+                <jugador>CrashOverride</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Real Madrid</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>AgentHercules</jugadorGanador>
+            <sala>s43</sala>
+        </partido>
+         
+        <partido idPartido='partido-088'>
+            <jugadores>
+                <jugador>DayHawk</jugador>
+                <jugador>Chuckles</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>PSG</equipoGanador>
+            <jugadorGanador>DayHawk</jugadorGanador>
+            <sala>s103</sala>
+        </partido>
+         
+        <partido idPartido='partido-089'>
+            <jugadores>
+                <jugador>AngelsCreed</jugador>
+                <jugador>BoomBlaster</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>BoomBlaster</jugadorGanador>
+            <sala>s180</sala>
+        </partido>
+         
+        <partido idPartido='partido-090'>
+            <jugadores>
+                <jugador>BettyCricket</jugador>
+                <jugador>BeardedAngler</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>PSG</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>BettyCricket</jugadorGanador>
+            <sala>s172</sala>
+        </partido>
+         
+        <partido idPartido='partido-091'>
+            <jugadores>
+                <jugador>CommandX</jugador>
+                <jugador>Blister</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Boca Juniors</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>Blister</jugadorGanador>
+            <sala>s125</sala>
+        </partido>
+         
+        <partido idPartido='partido-092'>
+            <jugadores>
+                <jugador>BugBlitz</jugador>
+                <jugador>Digger</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Barcelona</equipo>
+            </equipos>
+            <equipoGanador>Barcelona</equipoGanador>
+            <jugadorGanador>Digger</jugadorGanador>
+            <sala>s2</sala>
+        </partido>
+         
+        <partido idPartido='partido-093'>
+            <jugadores>
+                <jugador>CerealKiller</jugador>
+                <jugador>ChocoNutsX</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>CerealKiller</jugadorGanador>
+            <sala>s31</sala>
+        </partido>
+         
+        <partido idPartido='partido-094'>
+            <jugadores>
+                <jugador>AgentHercules</jugador>
+                <jugador>BootlegTaximan</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Juventus</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>BootlegTaximan</jugadorGanador>
+            <sala>s105</sala>
+        </partido>
+         
+        <partido idPartido='partido-095'>
+            <jugadores>
+                <jugador>CelticCharger</jugador>
+                <jugador>Cosmo</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Manchester City</equipo>
+                <equipo>Borussia Dortmund</equipo>
+            </equipos>
+            <equipoGanador>Borussia Dortmund</equipoGanador>
+            <jugadorGanador>Cosmo</jugadorGanador>
+            <sala>s173</sala>
+        </partido>
+         
+        <partido idPartido='partido-096'>
+            <jugadores>
+                <jugador>AutomaticSlicer</jugador>
+                <jugador>DiscoThunder</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Borussia Dortmund</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Manchester City</equipoGanador>
+            <jugadorGanador>DiscoThunder</jugadorGanador>
+            <sala>s151</sala>
+        </partido>
+         
+        <partido idPartido='partido-097'>
+            <jugadores>
+                <jugador>Cabbie</jugador>
+                <jugador>CrazyEights</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>Cabbie</jugadorGanador>
+            <sala>s67</sala>
+        </partido>
+         
+        <partido idPartido='partido-098'>
+            <jugadores>
+                <jugador>DriftManiac</jugador>
+                <jugador>BitSentinel</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Juventus</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DriftManiac</jugadorGanador>
+            <sala>s5</sala>
+        </partido>
+         
+        <partido idPartido='partido-099'>
+            <jugadores>
+                <jugador>DozKiller</jugador>
+                <jugador>CrazyEights</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>Boca Juniors</equipo>
+                <equipo>Manchester City</equipo>
+            </equipos>
+            <equipoGanador>Boca Juniors</equipoGanador>
+            <jugadorGanador>DozKiller</jugadorGanador>
+            <sala>s48</sala>
+        </partido>
+         
+        <partido idPartido='partido-100'>
+            <jugadores>
+                <jugador>Alpha</jugador>
+                <jugador>AgentHercules</jugador>
+            </jugadores>
+            <equipos>
+                <equipo>PSG</equipo>
+                <equipo>River Plate</equipo>
+            </equipos>
+            <equipoGanador>River Plate</equipoGanador>
+            <jugadorGanador>AgentHercules</jugadorGanador>
+            <sala>s36</sala>
+        </partido>
+    </partidos>

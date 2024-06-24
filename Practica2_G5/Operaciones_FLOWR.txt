@@ -1,0 +1,68 @@
+- Filtrado por una sola condición:
+
+1.
+
+for $x in /futbolistas/futbolista
+where $x/equipo/nombreEquipo="PSG"
+order by $x/nombre
+return element equipo{
+  data($x/nombre)
+}
+
+2.
+
+for $x in /servidores/servidor
+where $x/region = "Italy"
+return element servidor {data($x/region), count($x/salas/sala)}
+
+
+- Filtrado por varias condiciones:
+
+3. 
+
+for $x in /jugadores/jugador
+where $x/cuentaOrigin and $x/division=1
+return element usuario{ data($x/@idJug)}
+
+- Ordenación:
+
+4.
+
+for $x in /compras/compra/articulo
+group by $d:= $x/nombreArticulo
+  order by sum($x/cantidad) descending
+return <articulo nombre="{$d}" numCompras="{count($x)}">{
+        for $item-in-dept in $x
+        group by $n := $item-in-dept/nombreArticulo
+      
+        return <total  cantidad="{sum($x/cantidad)}"/>
+      }</articulo>
+
+5.
+
+distinct-values(for $x in futbolistas/futbolista/equipo
+order by $x/pais, $x/liga
+return element equipo {$x/nombreEquipo})
+
+- Función de agregación:
+
+6.
+
+for $x in /clubes/club
+order by sum(count($x/trofeos/trofeo)) descending
+return element clubes{data($x/@nombreC),count($x/trofeos/trofeo)}
+
+- Operación sobre dos documentos con elementos distintos:
+
+7.
+
+for $x in /clubes/club, $y in /jugadores/jugador
+where $x/@nombreC=$y/club
+  group by $w:=$y/club
+return <club nombre="{$x/@nombreC}">
+{
+  for  $m in $y
+  return <jugador id="{$m/@idJug}"/>
+}
+</club>
+

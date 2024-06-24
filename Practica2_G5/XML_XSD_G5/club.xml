@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<clubes xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="club.xsd">
+    <club nombreC='Dropkick'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Campeonato canadiense'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='DrugstoreCowboy'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Copa de los presdidentes'/>
+			<trofeo edicion='2016' nombreTrofeo='Indian Super League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='DuckDuck'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='USL Champions'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='EarlofArms'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Indian Super League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='EasySweep'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Superliga'/>
+			<trofeo edicion='2016' nombreTrofeo='UEFA Champions League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='EerieMizzen'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='GNF'/>
+			<trofeo edicion='2016' nombreTrofeo='Super Copa'/>
+			<trofeo edicion='2018' nombreTrofeo='Liga K'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ElactixNova'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='KNVB Beker'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ElderPogue'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Superliga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ElectricPlayer'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Indian Super League'/>
+			<trofeo edicion='2021' nombreTrofeo='CSL'/>
+			<trofeo edicion='2018' nombreTrofeo='Campeonato canadiense'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ElectricSaturn'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='UEFA Champions League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='EmberRope'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Copa Mx'/>
+			<trofeo edicion='2018' nombreTrofeo='Ekstraklasa'/>
+			<trofeo edicion='2021' nombreTrofeo='Copa Chile'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Esquire'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa de Malasia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ExoticAlpha'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Copa Emperador'/>
+			<trofeo edicion='2018' nombreTrofeo='GNF'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='EyeShooter'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='HKFA'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Fabulous'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Bundesliga'/>
+			<trofeo edicion='2019' nombreTrofeo='LaLiga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FastDraw'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='PSL'/>
+			<trofeo edicion='2018' nombreTrofeo='Coppa Italia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FastLane'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Primeira Liga'/>
+			<trofeo edicion='2017' nombreTrofeo='CSL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FatherAbbot'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Coupe de France'/>
+			<trofeo edicion='2017' nombreTrofeo='USL Champions'/>
+			<trofeo edicion='2020' nombreTrofeo='Eurocopa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FenderBoyXXX'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Copa Chile'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FennelDove'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='USL Champions'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FeralMayhem'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa Argentina'/>
+			<trofeo edicion='2019' nombreTrofeo='Copa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FiendOblivion'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Liga J1'/>
+			<trofeo edicion='2021' nombreTrofeo='Liga Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FifthHarmony'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Coupe de la Ligue'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FireFeline'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Vietnam League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FireFish'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Serie A'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FireByMisFire'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Supercopa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FistWizard'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Copa de Malasia'/>
+			<trofeo edicion='2021' nombreTrofeo='UEFA Champions League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Flakes'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='MLS'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FlameOUT'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Coupe Federation'/>
+			<trofeo edicion='2020' nombreTrofeo='Copa de Malasia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Flint'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='NASL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FlyGuardX'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Coupe de France'/>
+			<trofeo edicion='2018' nombreTrofeo='Copa del Rey'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FlyingDoodle'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Ligi kuu Bara'/>
+			<trofeo edicion='2020' nombreTrofeo='Liga de estrellas'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FrankenGrin'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Coupe de la Ligue'/>
+			<trofeo edicion='2021' nombreTrofeo='Magyar Kupa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Freak'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='MLS'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='FrozenExplosion'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Ligi kuu Bara'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Gadget'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Serie A'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GasMan'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Eredivisie'/>
+			<trofeo edicion='2020' nombreTrofeo='Liga S'/>
+			<trofeo edicion='2016' nombreTrofeo='Liga de estrellas'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GeneralBroomdog'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Coupe Federation'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GeneralFinish'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Copa Emperador'/>
+			<trofeo edicion='2020' nombreTrofeo='LaLiga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Ghostrider'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Copa Colombia'/>
+			<trofeo edicion='2019' nombreTrofeo='UEFA Europa League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Globalmeltdown'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Liga Mx'/>
+			<trofeo edicion='2020' nombreTrofeo='Serie A'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Glyph'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Copa de Singapur'/>
+			<trofeo edicion='2019' nombreTrofeo='CSL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GoateeShield'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Liga K'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GovSkull'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Liga J1'/>
+			<trofeo edicion='2018' nombreTrofeo='Thai League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GraveDigger'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Copa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GreekRifle'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Eredivisie'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GreenGhost'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Copa del Rey'/>
+			<trofeo edicion='2017' nombreTrofeo='Copa Emperador'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GreenScavenger'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Supercopa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Guillotine'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa Chile'/>
+			<trofeo edicion='2017' nombreTrofeo='NASL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Gullyway'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Divisi Utama'/>
+			<trofeo edicion='2019' nombreTrofeo='Copa del Rey'/>
+			<trofeo edicion='2019' nombreTrofeo='Supercopa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='GuncapSlingbad'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Copa del Rey'/>
+			<trofeo edicion='2017' nombreTrofeo='UEFA Champions League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Gunhawk'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Ekstraklasa'/>
+			<trofeo edicion='2016' nombreTrofeo='MLS'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HeroOfBlackday'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Coppa Italia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HighKingdomWarrior'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Campeonato canadiense'/>
+			<trofeo edicion='2021' nombreTrofeo='Liga S'/>
+			<trofeo edicion='2018' nombreTrofeo='Premier League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HighlanderMonk'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='USL Champions'/>
+			<trofeo edicion='2021' nombreTrofeo='Bundesliga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Hightower'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Primeira Liga'/>
+			<trofeo edicion='2016' nombreTrofeo='Liga S'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HogButcher'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='UEFA Champions League'/>
+			<trofeo edicion='2020' nombreTrofeo='Ligi kuu Bara'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HollySparta'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Liga de estrellas'/>
+			<trofeo edicion='2018' nombreTrofeo='Coupe de la Ligue'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Houston'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Copa Argentina'/>
+			<trofeo edicion='2021' nombreTrofeo='Copa de los presdidentes'/>
+			<trofeo edicion='2017' nombreTrofeo='Coupe Federation'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HoustonRocket'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='NWSL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Hyper'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Eredivisie'/>
+			<trofeo edicion='2017' nombreTrofeo='Magyar Kupa'/>
+			<trofeo edicion='2019' nombreTrofeo='Copa de Singapur'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='HyperKong'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='UEFA Europa League'/>
+			<trofeo edicion='2018' nombreTrofeo='Copa de Malasia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='ImpulsiveFlower'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa de Singapur'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Indiana'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='MLS'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='IonicHound'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Copa Emperador'/>
+			<trofeo edicion='2020' nombreTrofeo='Thai League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JackCassidy'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Bundesliga'/>
+			<trofeo edicion='2016' nombreTrofeo='Supercopa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JellyCamber'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Coupe de la Ligue'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Jester'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='HKFA'/>
+			<trofeo edicion='2017' nombreTrofeo='Copa do Brasil'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JesterZilla'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Copa de Malasia'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JigKraken'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Eerste Divisie'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Jigsaw'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Thai League'/>
+			<trofeo edicion='2020' nombreTrofeo='Copa FA'/>
+			<trofeo edicion='2016' nombreTrofeo='Liga K'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JokersGrin'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Liga K'/>
+			<trofeo edicion='2018' nombreTrofeo='Coupe de France'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Judge'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Thai League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='JunkyardDog'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='CSL'/>
+			<trofeo edicion='2018' nombreTrofeo='Vietnam League'/>
+			<trofeo edicion='2018' nombreTrofeo='Divisi Utama'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='K-9'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Ekstraklasa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='K-TinMan'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Ekstraklasa'/>
+			<trofeo edicion='2020' nombreTrofeo='Campeonato canadiense'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Keystone'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='UEFA Europa League'/>
+			<trofeo edicion='2020' nombreTrofeo='Liga J1'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KiTParty'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Lega Pro 1'/>
+			<trofeo edicion='2016' nombreTrofeo='CSL'/>
+			<trofeo edicion='2019' nombreTrofeo='HKFA'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Kickstart'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Vietnam League'/>
+			<trofeo edicion='2017' nombreTrofeo='PSL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KillSwitch'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Magyar Kupa'/>
+			<trofeo edicion='2017' nombreTrofeo='Superliga'/>
+			<trofeo edicion='2016' nombreTrofeo='Copa del Rey'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KillahGoose'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='GNF'/>
+			<trofeo edicion='2017' nombreTrofeo='Coppa Italia'/>
+			<trofeo edicion='2019' nombreTrofeo='PSL'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Kingfisher'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Coupe de France'/>
+			<trofeo edicion='2018' nombreTrofeo='HKFA'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KingofWolfstreet'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Liga K'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Kitchen'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Eerste Divisie'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KnightLight'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='Coupe Federation'/>
+			<trofeo edicion='2017' nombreTrofeo='NWSL'/>
+			<trofeo edicion='2020' nombreTrofeo='HKFA'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='Knuckles'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Copa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='KoiDiva'>
+		<trofeos>
+			<trofeo edicion='2017' nombreTrofeo='Liga K'/>
+			<trofeo edicion='2017' nombreTrofeo='Eerste Divisie'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LFAKing'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa Mx'/>
+			<trofeo edicion='2021' nombreTrofeo='Super Copa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LadyKiller'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Copa de los presdidentes'/>
+			<trofeo edicion='2019' nombreTrofeo='Copa do Brasil'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LandfillMax'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Eurocopa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LavaNibbler'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='Liga Mx'/>
+			<trofeo edicion='2019' nombreTrofeo='Serie A'/>
+			<trofeo edicion='2017' nombreTrofeo='LaLiga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LazyKiller'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Ekstraklasa'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LeSpank'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Coupe Federation'/>
+			<trofeo edicion='2017' nombreTrofeo='Coupe de la Ligue'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LexusGTXXX'>
+		<trofeos>
+			<trofeo edicion='2021' nombreTrofeo='Thai League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LifeRobber'>
+		<trofeos>
+			<trofeo edicion='2018' nombreTrofeo='NASL'/>
+			<trofeo edicion='2021' nombreTrofeo='KNVB Beker'/>
+			<trofeo edicion='2018' nombreTrofeo='UEFA Champions League'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LightLion'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='PSL'/>
+			<trofeo edicion='2016' nombreTrofeo='Premier League'/>
+			<trofeo edicion='2017' nombreTrofeo='Eredivisie'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LightInOut'>
+		<trofeos>
+			<trofeo edicion='2019' nombreTrofeo='Liga Mx'/>
+			<trofeo edicion='2021' nombreTrofeo='NWSL'/>
+			<trofeo edicion='2017' nombreTrofeo='Supercopa Mx'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LiquidDeath'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Copa de Singapur'/>
+			<trofeo edicion='2017' nombreTrofeo='Serie A'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LiquidScience'>
+		<trofeos>
+			<trofeo edicion='2016' nombreTrofeo='LaLiga'/>
+			<trofeo edicion='2019' nombreTrofeo='Superliga'/>
+		</trofeos>
+	</club>
+ 
+	<club nombreC='LittleCobra'>
+		<trofeos>
+			<trofeo edicion='2020' nombreTrofeo='Vietnam League'/>
+			<trofeo edicion='2016' nombreTrofeo='NASL'/>
+		</trofeos>
+	</club>
+</clubes>

@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<futbolistas xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="futbolistas.xsd">
+
+    <futbolista idF='f-001'>
+		<nombre>K.Navas</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-002'>
+		<nombre>P.Kimpembe</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-003'>
+		<nombre>A.Diallo</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-004'>
+		<nombre>Marquinhos</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>96</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-005'>
+		<nombre>A.Florenzi</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-006'>
+		<nombre>L.Paredes</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-007'>
+		<nombre>Danilo Pereira</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-008'>
+		<nombre>M.Verratti</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-009'>
+		<nombre>K.Mbappe</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-010'>
+		<nombre>M.Kean</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-011'>
+		<nombre>Neymar</nombre>
+		<equipo>
+			<nombreEquipo>PSG</nombreEquipo>
+			<pais>Francia</pais>
+			<liga>PSG</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-012'>
+		<nombre>M.Ter Stegen</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-013'>
+		<nombre>Jordi Alba</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-014'>
+		<nombre>C.Lenglet</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-015'>
+		<nombre>Pique</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-016'>
+		<nombre>Sergi Roberto</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-017'>
+		<nombre>F.De Jong</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-018'>
+		<nombre>Busquets</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-019'>
+		<nombre>Ansu Fati</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-020'>
+		<nombre>A.Griezmann</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-021'>
+		<nombre>O.Dembele</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-022'>
+		<nombre>L.Messi</nombre>
+		<equipo>
+			<nombreEquipo>Barcelona</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Barcelona</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-023'>
+		<nombre>T.Courtois</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>99</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-024'>
+		<nombre>Nacho</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-025'>
+		<nombre>R.Varane</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-026'>
+		<nombre>Lucas Vazquez</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-027'>
+		<nombre>Casemiro</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-028'>
+		<nombre>T.Kross</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-029'>
+		<nombre>L.Modric</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-030'>
+		<nombre>Isco</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-031'>
+		<nombre>Asensio</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-032'>
+		<nombre>K.Benzema</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-033'>
+		<nombre>M.Diaz</nombre>
+		<equipo>
+			<nombreEquipo>Real Madrid</nombreEquipo>
+			<pais>Espana</pais>
+			<liga>Real Madrid</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-034'>
+		<nombre>Ederson Moraes</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-035'>
+		<nombre>O.Zinchenko</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-036'>
+		<nombre>A.Laporte</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-037'>
+		<nombre>Ruben Dias</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-038'>
+		<nombre>K.Walker</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-039'>
+		<nombre>I.Gundogan</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>97</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-040'>
+		<nombre>Bernardo</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-041'>
+		<nombre>Silva</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-042'>
+		<nombre>R.Sterling</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-043'>
+		<nombre>Gabriel Jesus</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-044'>
+		<nombre>R.Mahrez</nombre>
+		<equipo>
+			<nombreEquipo>Manchester City</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester City</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-045'>
+		<nombre>R.Burki</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-046'>
+		<nombre>Raphael Guerreiro</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-047'>
+		<nombre>M.Hummels</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>96</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-048'>
+		<nombre>M.Akanji</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-049'>
+		<nombre>T.Meunier</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-050'>
+		<nombre>T.Delaney</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-051'>
+		<nombre>M.Dahoud</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-052'>
+		<nombre>T.Hazard</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-053'>
+		<nombre>G.Reyna</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-054'>
+		<nombre>J.Sancho</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>99</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-055'>
+		<nombre>E.Haaland</nombre>
+		<equipo>
+			<nombreEquipo>Borussia Dortmund</nombreEquipo>
+			<pais>Alemania</pais>
+			<liga>Borussia Dortmund</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-056'>
+		<nombre>W.Szczesny</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-057'>
+		<nombre>Alex Sandro</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-058'>
+		<nombre>L.Bonucci</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>96</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-059'>
+		<nombre>M.Demiral</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-060'>
+		<nombre>J.Cuadrado</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-061'>
+		<nombre>F.Chiesa</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-062'>
+		<nombre>A.Raibot</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-063'>
+		<nombre>R.Bentancur</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-064'>
+		<nombre>A.Ramsey</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>99</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-065'>
+		<nombre>Cristiano Ronaldo</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-066'>
+		<nombre>Morata</nombre>
+		<equipo>
+			<nombreEquipo>Juventus</nombreEquipo>
+			<pais>Italia</pais>
+			<liga>Juventus</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>85</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-067'>
+		<nombre>E.Andrada</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>97</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-068'>
+		<nombre>M.Rojo</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-069'>
+		<nombre>C.Izquierdoz</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-070'>
+		<nombre>C.Zambrano</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-071'>
+		<nombre>F.Fabra</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-072'>
+		<nombre>N.Capaldo</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>97</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>93</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-073'>
+		<nombre>J.Campuzano</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-074'>
+		<nombre>C.Medina</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-075'>
+		<nombre>G.Maroni</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-076'>
+		<nombre>S.Villa</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-077'>
+		<nombre>C.Tevez</nombre>
+		<equipo>
+			<nombreEquipo>Boca Juniors</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>Boca Juniors</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-078'>
+		<nombre>F.Armani</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>89</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-079'>
+		<nombre>M.Casco</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-080'>
+		<nombre>P.Diaz</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-081'>
+		<nombre>J.Maidana</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-082'>
+		<nombre>A.Vigo</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-083'>
+		<nombre>A.Palavecino</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-084'>
+		<nombre>E.Perez</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-085'>
+		<nombre>N.De La Cruz</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-086'>
+		<nombre>M.Suarez</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-087'>
+		<nombre>R.Borre</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-088'>
+		<nombre>J.Alvarez</nombre>
+		<equipo>
+			<nombreEquipo>River Plate</nombreEquipo>
+			<pais>Argentina</pais>
+			<liga>River Plate</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-089'>
+		<nombre>David De Gea</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-090'>
+		<nombre>L.Shaw</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-091'>
+		<nombre>H.Maguire</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>86</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-092'>
+		<nombre>V.Lindelof</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>90</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>98</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>94</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-093'>
+		<nombre>A.Wan-Bissaka</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>96</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-094'>
+		<nombre>Fred</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>83</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-095'>
+		<nombre>P.Pogba</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>84</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-096'>
+		<nombre>S.Mctominay</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>99</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-097'>
+		<nombre>Bruno Fernandes</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>87</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>95</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-098'>
+		<nombre>M.Greenwood</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>88</mediaCarta>
+			</carta>
+			<carta tipoCarta='Destacados'>
+				<mediaCarta>92</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+ 
+	<futbolista idF='f-099'>
+		<nombre>M.Rashford</nombre>
+		<equipo>
+			<nombreEquipo>Manchester United</nombreEquipo>
+			<pais>Inglaterra</pais>
+			<liga>Manchester United</liga>
+		</equipo>
+		<cartas>
+			<carta tipoCarta='normal'>
+				<mediaCarta>91</mediaCarta>
+			</carta>
+			<carta tipoCarta='TOTY'>
+				<mediaCarta>99</mediaCarta>
+			</carta>
+		</cartas>
+	</futbolista>
+</futbolistas>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="partidos">
+        <xs:complexType>
+        <xs:sequence>
+            <xs:element name="partido" maxOccurs="unbounded">
+                <xs:complexType>
+                 <xs:sequence> 
+            <xs:element name="jugadores">
+                <xs:complexType>
+                <xs:sequence>
+                    <xs:element name="jugador" minOccurs="2" maxOccurs="2"></xs:element>
+                </xs:sequence>    
+                </xs:complexType>
+            </xs:element>
+
+            <xs:element name="equipos">
+                <xs:complexType>
+                <xs:sequence>
+                    <xs:element name="equipo" minOccurs="2" maxOccurs="2"></xs:element>
+                </xs:sequence>    
+                </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="jugadas">
+                <xs:complexType>
+                    <xs:choice minOccurs="0" maxOccurs="unbounded">
+                    <xs:element name="gol" maxOccurs="unbounded">
+                        <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="minuto" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                                
+                            
+                            <xs:element name="equipo" minOccurs="1" maxOccurs="1"></xs:element>
+                            <xs:element name="futbolista" minOccurs="1" maxOccurs="1"></xs:element>
+                            <xs:element name="tipo" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="Penalti"/>
+                                    <xs:enumeration value="En propia"/>
+                                </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>    
+                        </xs:complexType>
+                    </xs:element>
+
+                    <xs:element name="tarjeta">
+                        <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="minuto" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                            
+                            <xs:element name="color" minOccurs="1" maxOccurs="1" >
+                                <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="amarilla"/>
+                                    <xs:enumeration value="roja"/>
+                                </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+
+                            <xs:element name="futbolista" minOccurs="1" maxOccurs="1"></xs:element>
+
+                        </xs:sequence>    
+                        </xs:complexType>
+                    </xs:element>
+
+                    <xs:element name="cambio">
+                        <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="minuto" minOccurs="1" maxOccurs="1" type="xs:string"/>
+
+                            <xs:element name="equipo" minOccurs="1" maxOccurs="1"></xs:element>
+                            <xs:element name="lesion" minOccurs="0" maxOccurs="1">
+                                <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="Si"></xs:enumeration>
+                                </xs:restriction>    
+                                </xs:simpleType>
+                            </xs:element>
+
+                        </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                    
+                </xs:choice> 
+                </xs:complexType>
+            </xs:element>    
+        </xs:sequence> 
+            <xs:attribute name="id" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:ID">
+                       <xs:pattern value="[p][a][r][t][i][d][o][-][0-9][0-9][0-9]"></xs:pattern>
+                    </xs:restriction>
+                   </xs:simpleType>   
+
+            </xs:attribute>
+        </xs:complexType>
+        </xs:element>
+    
+
+        </xs:sequence>
+        </xs:complexType>
+
+    </xs:element>
+
+
+
+</xs:schema>

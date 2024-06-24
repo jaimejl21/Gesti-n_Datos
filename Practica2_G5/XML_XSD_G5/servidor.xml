@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" ?><!-- stanalone?-->
+
+<servidores xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="servidor.xsd">
+    <servidor id='sv-001'>
+        <region><![CDATA[Afghanistan]]></region>
+         <salas>
+            <sala>s1</sala>
+            <sala>s2</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-002'>
+        <region><![CDATA[Albania]]></region>
+         <salas>
+            <sala>s3</sala>
+            <sala>s4</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-003'>
+        <region><![CDATA[Algeria]]></region>
+         <salas>
+            <sala>s5</sala>
+            <sala>s6</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-004'>
+        <region><![CDATA[Andorra]]></region>
+         <salas>
+            <sala>s7</sala>
+            <sala>s8</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-005'>
+        <region><![CDATA[Angola]]></region>
+         <salas>
+            <sala>s9</sala>
+            <sala>s10</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-006'>
+        <region><![CDATA[Antigua and Barbuda]]></region>
+         <salas>
+            <sala>s11</sala>
+            <sala>s12</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-007'>
+        <region><![CDATA[Argentina]]></region>
+         <salas>
+            <sala>s13</sala>
+            <sala>s14</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-008'>
+        <region><![CDATA[Armenia]]></region>
+         <salas>
+            <sala>s15</sala>
+            <sala>s16</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-009'>
+        <region><![CDATA[Australia]]></region>
+         <salas>
+            <sala>s17</sala>
+            <sala>s18</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-010'>
+        <region><![CDATA[Austria]]></region>
+         <salas>
+            <sala>s19</sala>
+            <sala>s20</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-011'>
+        <region><![CDATA[Austrian Empire]]></region>
+         <salas>
+            <sala>s21</sala>
+            <sala>s22</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-012'>
+        <region><![CDATA[Azerbaijan]]></region>
+         <salas>
+            <sala>s23</sala>
+            <sala>s24</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-013'>
+        <region><![CDATA[Bahrain]]></region>
+         <salas>
+            <sala>s25</sala>
+            <sala>s26</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-014'>
+        <region><![CDATA[Bangladesh]]></region>
+         <salas>
+            <sala>s27</sala>
+            <sala>s28</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-015'>
+        <region><![CDATA[Barbados]]></region>
+         <salas>
+            <sala>s29</sala>
+            <sala>s30</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-016'>
+        <region><![CDATA[Belarus]]></region>
+         <salas>
+            <sala>s31</sala>
+            <sala>s32</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-017'>
+        <region><![CDATA[Belgium]]></region>
+         <salas>
+            <sala>s33</sala>
+            <sala>s34</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-018'>
+        <region><![CDATA[Belize]]></region>
+         <salas>
+            <sala>s35</sala>
+            <sala>s36</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-019'>
+        <region><![CDATA[Benin (Dahomey)]]></region>
+         <salas>
+            <sala>s37</sala>
+            <sala>s38</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-020'>
+        <region><![CDATA[Bolivia]]></region>
+         <salas>
+            <sala>s39</sala>
+            <sala>s40</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-021'>
+        <region><![CDATA[Bosnia and Herzegovina]]></region>
+         <salas>
+            <sala>s41</sala>
+            <sala>s42</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-022'>
+        <region><![CDATA[Botswana]]></region>
+         <salas>
+            <sala>s43</sala>
+            <sala>s44</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-023'>
+        <region><![CDATA[Brazil]]></region>
+         <salas>
+            <sala>s45</sala>
+            <sala>s46</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-024'>
+        <region><![CDATA[Brunei]]></region>
+         <salas>
+            <sala>s47</sala>
+            <sala>s48</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-025'>
+        <region><![CDATA[Brunswick and Luneburg]]></region>
+         <salas>
+            <sala>s49</sala>
+            <sala>s50</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-026'>
+        <region><![CDATA[Bulgaria]]></region>
+         <salas>
+            <sala>s51</sala>
+            <sala>s52</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-027'>
+        <region><![CDATA[Burkina Faso (Upper Volta)]]></region>
+         <salas>
+            <sala>s53</sala>
+            <sala>s54</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-028'>
+        <region><![CDATA[Burma]]></region>
+         <salas>
+            <sala>s55</sala>
+            <sala>s56</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-029'>
+        <region><![CDATA[Burundi]]></region>
+         <salas>
+            <sala>s57</sala>
+            <sala>s58</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-030'>
+        <region><![CDATA[Cabo Verde]]></region>
+         <salas>
+            <sala>s59</sala>
+            <sala>s60</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-031'>
+        <region><![CDATA[Cambodia]]></region>
+         <salas>
+            <sala>s61</sala>
+            <sala>s62</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-032'>
+        <region><![CDATA[Cameroon]]></region>
+         <salas>
+            <sala>s63</sala>
+            <sala>s64</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-033'>
+        <region><![CDATA[Canada]]></region>
+         <salas>
+            <sala>s65</sala>
+            <sala>s66</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-034'>
+        <region><![CDATA[Chad]]></region>
+         <salas>
+            <sala>s67</sala>
+            <sala>s68</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-035'>
+        <region><![CDATA[Chile]]></region>
+         <salas>
+            <sala>s69</sala>
+            <sala>s70</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-036'>
+        <region><![CDATA[China]]></region>
+         <salas>
+            <sala>s71</sala>
+            <sala>s72</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-037'>
+        <region><![CDATA[Colombia]]></region>
+         <salas>
+            <sala>s73</sala>
+            <sala>s74</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-038'>
+        <region><![CDATA[Comoros]]></region>
+         <salas>
+            <sala>s75</sala>
+            <sala>s76</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-039'>
+        <region><![CDATA[Costa Rica]]></region>
+         <salas>
+            <sala>s77</sala>
+            <sala>s78</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-040'>
+        <region><![CDATA[Croatia]]></region>
+         <salas>
+            <sala>s79</sala>
+            <sala>s80</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-041'>
+        <region><![CDATA[Cuba]]></region>
+         <salas>
+            <sala>s81</sala>
+            <sala>s82</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-042'>
+        <region><![CDATA[Cyprus]]></region>
+         <salas>
+            <sala>s83</sala>
+            <sala>s84</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-043'>
+        <region><![CDATA[Czechia]]></region>
+         <salas>
+            <sala>s85</sala>
+            <sala>s86</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-044'>
+        <region><![CDATA[Czechoslovakia]]></region>
+         <salas>
+            <sala>s87</sala>
+            <sala>s88</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-045'>
+        <region><![CDATA[Democratic Republic of the Congo]]></region>
+         <salas>
+            <sala>s89</sala>
+            <sala>s90</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-046'>
+        <region><![CDATA[Denmark]]></region>
+         <salas>
+            <sala>s91</sala>
+            <sala>s92</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-047'>
+        <region><![CDATA[Djibouti]]></region>
+         <salas>
+            <sala>s93</sala>
+            <sala>s94</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-048'>
+        <region><![CDATA[Dominica]]></region>
+         <salas>
+            <sala>s95</sala>
+            <sala>s96</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-049'>
+        <region><![CDATA[Dominican Republic]]></region>
+         <salas>
+            <sala>s97</sala>
+            <sala>s98</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-050'>
+        <region><![CDATA[Ecuador]]></region>
+         <salas>
+            <sala>s99</sala>
+            <sala>s100</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-051'>
+        <region><![CDATA[Egypt]]></region>
+         <salas>
+            <sala>s101</sala>
+            <sala>s102</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-052'>
+        <region><![CDATA[El Salvador]]></region>
+         <salas>
+            <sala>s103</sala>
+            <sala>s104</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-053'>
+        <region><![CDATA[Equatorial Guinea]]></region>
+         <salas>
+            <sala>s105</sala>
+            <sala>s106</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-054'>
+        <region><![CDATA[Eritrea]]></region>
+         <salas>
+            <sala>s107</sala>
+            <sala>s108</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-055'>
+        <region><![CDATA[Estonia]]></region>
+         <salas>
+            <sala>s109</sala>
+            <sala>s110</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-056'>
+        <region><![CDATA[Eswatini]]></region>
+         <salas>
+            <sala>s111</sala>
+            <sala>s112</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-057'>
+        <region><![CDATA[Ethiopia]]></region>
+         <salas>
+            <sala>s113</sala>
+            <sala>s114</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-058'>
+        <region><![CDATA[Fiji]]></region>
+         <salas>
+            <sala>s115</sala>
+            <sala>s116</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-059'>
+        <region><![CDATA[Finland]]></region>
+         <salas>
+            <sala>s117</sala>
+            <sala>s118</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-060'>
+        <region><![CDATA[France]]></region>
+         <salas>
+            <sala>s119</sala>
+            <sala>s120</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-061'>
+        <region><![CDATA[Georgia]]></region>
+         <salas>
+            <sala>s121</sala>
+            <sala>s122</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-062'>
+        <region><![CDATA[Germany]]></region>
+         <salas>
+            <sala>s123</sala>
+            <sala>s124</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-063'>
+        <region><![CDATA[Ghana]]></region>
+         <salas>
+            <sala>s125</sala>
+            <sala>s126</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-064'>
+        <region><![CDATA[Greece]]></region>
+         <salas>
+            <sala>s127</sala>
+            <sala>s128</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-065'>
+        <region><![CDATA[Grenada]]></region>
+         <salas>
+            <sala>s129</sala>
+            <sala>s130</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-066'>
+        <region><![CDATA[Guatemala]]></region>
+         <salas>
+            <sala>s131</sala>
+            <sala>s132</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-067'>
+        <region><![CDATA[Guinea]]></region>
+         <salas>
+            <sala>s133</sala>
+            <sala>s134</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-068'>
+        <region><![CDATA[Guinea-Bissau]]></region>
+         <salas>
+            <sala>s135</sala>
+            <sala>s136</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-069'>
+        <region><![CDATA[Guyana]]></region>
+         <salas>
+            <sala>s137</sala>
+            <sala>s138</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-070'>
+        <region><![CDATA[Haiti]]></region>
+         <salas>
+            <sala>s139</sala>
+            <sala>s140</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-071'>
+        <region><![CDATA[Holy See]]></region>
+         <salas>
+            <sala>s141</sala>
+            <sala>s142</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-072'>
+        <region><![CDATA[Honduras]]></region>
+         <salas>
+            <sala>s143</sala>
+            <sala>s144</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-073'>
+        <region><![CDATA[Hungary]]></region>
+         <salas>
+            <sala>s145</sala>
+            <sala>s146</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-074'>
+        <region><![CDATA[Iceland]]></region>
+         <salas>
+            <sala>s147</sala>
+            <sala>s148</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-075'>
+        <region><![CDATA[India]]></region>
+         <salas>
+            <sala>s149</sala>
+            <sala>s150</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-076'>
+        <region><![CDATA[Indonesia]]></region>
+         <salas>
+            <sala>s151</sala>
+            <sala>s152</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-077'>
+        <region><![CDATA[Iran]]></region>
+         <salas>
+            <sala>s153</sala>
+            <sala>s154</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-078'>
+        <region><![CDATA[Iraq]]></region>
+         <salas>
+            <sala>s155</sala>
+            <sala>s156</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-079'>
+        <region><![CDATA[Ireland]]></region>
+         <salas>
+            <sala>s157</sala>
+            <sala>s158</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-080'>
+        <region><![CDATA[Israel]]></region>
+         <salas>
+            <sala>s159</sala>
+            <sala>s160</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-081'>
+        <region><![CDATA[Italy]]></region>
+         <salas>
+            <sala>s161</sala>
+            <sala>s162</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-082'>
+        <region><![CDATA[Jamaica]]></region>
+         <salas>
+            <sala>s163</sala>
+            <sala>s164</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-083'>
+        <region><![CDATA[Japan]]></region>
+         <salas>
+            <sala>s165</sala>
+            <sala>s166</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-084'>
+        <region><![CDATA[Jordan]]></region>
+         <salas>
+            <sala>s167</sala>
+            <sala>s168</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-085'>
+        <region><![CDATA[Kiribati]]></region>
+         <salas>
+            <sala>s169</sala>
+            <sala>s170</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-086'>
+        <region><![CDATA[Korea]]></region>
+         <salas>
+            <sala>s171</sala>
+            <sala>s172</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-087'>
+        <region><![CDATA[Kosovo]]></region>
+         <salas>
+            <sala>s173</sala>
+            <sala>s174</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-088'>
+        <region><![CDATA[Kuwait]]></region>
+         <salas>
+            <sala>s175</sala>
+            <sala>s176</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-089'>
+        <region><![CDATA[Kyrgyzstan]]></region>
+         <salas>
+            <sala>s177</sala>
+            <sala>s178</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-090'>
+        <region><![CDATA[Laos]]></region>
+         <salas>
+            <sala>s179</sala>
+            <sala>s180</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-091'>
+        <region><![CDATA[Latvia]]></region>
+         <salas>
+            <sala>s181</sala>
+            <sala>s182</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-092'>
+        <region><![CDATA[Lebanon]]></region>
+         <salas>
+            <sala>s183</sala>
+            <sala>s184</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-093'>
+        <region><![CDATA[Lesotho]]></region>
+         <salas>
+            <sala>s185</sala>
+            <sala>s186</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-094'>
+        <region><![CDATA[Liberia]]></region>
+         <salas>
+            <sala>s187</sala>
+            <sala>s188</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-095'>
+        <region><![CDATA[Libya]]></region>
+         <salas>
+            <sala>s189</sala>
+            <sala>s190</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-096'>
+        <region><![CDATA[Liechtenstein]]></region>
+         <salas>
+            <sala>s191</sala>
+            <sala>s192</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-097'>
+        <region><![CDATA[Lithuania]]></region>
+         <salas>
+            <sala>s193</sala>
+            <sala>s194</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-098'>
+        <region><![CDATA[Luxembourg]]></region>
+         <salas>
+            <sala>s195</sala>
+            <sala>s196</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-099'>
+        <region><![CDATA[Madagascar]]></region>
+         <salas>
+            <sala>s197</sala>
+            <sala>s198</sala>
+        </salas>
+    </servidor>
+    <servidor id='sv-100'>
+        <region><![CDATA[Malawi]]></region>
+         <salas>
+            <sala>s199</sala>
+            <sala>s200</sala>
+        </salas>
+    </servidor>
+</servidores>

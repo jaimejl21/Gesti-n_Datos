@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<compras xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="compras.xsd">
+  <compra idCompra='compra-001'>
+    <usuario>BeardedAngler</usuario>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+  </compra>
+  
+  <compra idCompra='compra-002'>
+    <usuario>CelticCharger</usuario>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-003'>
+    <usuario>DayHawk</usuario>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-004'>
+    <usuario>AtomicBlastoid</usuario>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-005'>
+    <usuario>CelticCharger</usuario>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-006'>
+    <usuario>DesertHaze</usuario>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-007'>
+    <usuario>CoolWhip</usuario>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-008'>
+    <usuario>Cabbie</usuario>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-009'>
+    <usuario>AdmiralTot</usuario>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-010'>
+    <usuario>CrazyEights</usuario>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-011'>
+    <usuario>Chuckles</usuario>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-012'>
+    <usuario>DriftManiac</usuario>
+    <articulo>
+      <nombreArticulo>Bailando Robot</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-013'>
+    <usuario>Bowler</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-014'>
+    <usuario>DiamondGamer</usuario>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-015'>
+    <usuario>Breadmaker</usuario>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-016'>
+    <usuario>CoolWhip</usuario>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-017'>
+    <usuario>DonStab</usuario>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-018'>
+    <usuario>Blister</usuario>
+    <articulo>
+      <nombreArticulo>Muevelo</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-019'>
+    <usuario>BackBett</usuario>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Liberty Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Catalizador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-020'>
+    <usuario>Digger</usuario>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-021'>
+    <usuario>Pixels</usuario>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-022'>
+    <usuario>AdmiralTot</usuario>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Catalizador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-023'>
+    <usuario>ChocolateThunder</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>28</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Catalizador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-024'>
+    <usuario>DancingMadman</usuario>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-025'>
+    <usuario>CoBolt</usuario>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-026'>
+    <usuario>CelticCharger</usuario>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Calm Down</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-027'>
+    <usuario>ArsenicCoo</usuario>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-028'>
+    <usuario>BlacKitten</usuario>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motor</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-029'>
+    <usuario>DarlingPeacock</usuario>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-030'>
+    <usuario>AtomicBlastoid</usuario>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muevelo</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-031'>
+    <usuario>Bitmap</usuario>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Catalizador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-032'>
+    <usuario>DonStab</usuario>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-033'>
+    <usuario>CenturionSherman</usuario>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-034'>
+    <usuario>Commando</usuario>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-035'>
+    <usuario>DesertHaze</usuario>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-036'>
+    <usuario>DarlingPeacock</usuario>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-037'>
+    <usuario>CrazyEights</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-038'>
+    <usuario>CollaterolDamage</usuario>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-039'>
+    <usuario>AcidGosling</usuario>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-040'>
+    <usuario>Waffle</usuario>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-041'>
+    <usuario>Bonzai</usuario>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>28</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-042'>
+    <usuario>DayHawk</usuario>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>42</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-043'>
+    <usuario>AirportHobo</usuario>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-044'>
+    <usuario>DaffyGirl</usuario>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>London Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-045'>
+    <usuario>DriftDetector</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Catalizador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-046'>
+    <usuario>AcidGosling</usuario>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>King Power Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-047'>
+    <usuario>CenturionSherman</usuario>
+    <articulo>
+      <nombreArticulo>Dean Court</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Juventus Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-048'>
+    <usuario>BabyBrown</usuario>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-049'>
+    <usuario>Bowie</usuario>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Prancing Bird</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-050'>
+    <usuario>CobraBite</usuario>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-051'>
+    <usuario>Desperado</usuario>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-052'>
+    <usuario>CandyButcher</usuario>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dean Court</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-053'>
+    <usuario>AngelsCreed</usuario>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>London Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-054'>
+    <usuario>CrossThread</usuario>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-055'>
+    <usuario>BugBlitz</usuario>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-056'>
+    <usuario>DanimalDaze</usuario>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>KO(Rooney)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-057'>
+    <usuario>DarlingPeacock</usuario>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Worm</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-058'>
+    <usuario>ChocolateThunder</usuario>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-059'>
+    <usuario>DesertHaze</usuario>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-060'>
+    <usuario>DayHawk</usuario>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>King Power Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-061'>
+    <usuario>DriftManiac</usuario>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-062'>
+    <usuario>Bonzai</usuario>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-063'>
+    <usuario>CelticCharger</usuario>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>42</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-064'>
+    <usuario>AtomicBlastoid</usuario>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-065'>
+    <usuario>CapitalF</usuario>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-066'>
+    <usuario>BootlegTaximan</usuario>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-067'>
+    <usuario>BeetleKing</usuario>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Juventus Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-068'>
+    <usuario>ArsenicCoo</usuario>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-069'>
+    <usuario>DiamondGamer</usuario>
+    <articulo>
+      <nombreArticulo>Guante</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-070'>
+    <usuario>AgentHercules</usuario>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-071'>
+    <usuario>BugBlitz</usuario>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Allianz Arena</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-072'>
+    <usuario>ChipQueen</usuario>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>28</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-073'>
+    <usuario>CenturionSherman</usuario>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>42</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-074'>
+    <usuario>DevilBlade</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Wembley</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>28</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-075'>
+    <usuario>CrossThread</usuario>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-076'>
+    <usuario>CoolIris</usuario>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dean Court</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Ancla</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-077'>
+    <usuario>CoolIris</usuario>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muscle Flex (Mario Balotelli)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-078'>
+    <usuario>ChasmFace</usuario>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-079'>
+    <usuario>DaffyGirl</usuario>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-080'>
+    <usuario>CupidDust</usuario>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Artista</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Calm Down</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-081'>
+    <usuario>DiscoPotato</usuario>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stamford Bridge</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>49</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-082'>
+    <usuario>CrossThread</usuario>
+    <articulo>
+      <nombreArticulo>Arquitecto</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>60</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>5</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-083'>
+    <usuario>CrissCross</usuario>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Hand Bite (Fabio Borini)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Right Here Right Now (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-084'>
+    <usuario>BeardedAngler</usuario>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-085'>
+    <usuario>Bitmap</usuario>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>London Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Juventus Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>14</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muevelo</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-086'>
+    <usuario>BackBett</usuario>
+    <articulo>
+      <nombreArticulo>Cazador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>The Bear (Ronaldo)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-087'>
+    <usuario>BloodEater</usuario>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>28</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-088'>
+    <usuario>CapitalF</usuario>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Liberty Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Espinazo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-089'>
+    <usuario>CongoWire</usuario>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>100</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Selhurst Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>35</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Maestro</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Muevelo</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>20</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-090'>
+    <usuario>DaffyGirl</usuario>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>7</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Centinela</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-091'>
+    <usuario>DiscoThunder</usuario>
+    <articulo>
+      <nombreArticulo>Motor</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Rematador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>80</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-092'>
+    <usuario>Alpha</usuario>
+    <articulo>
+      <nombreArticulo>Old Man</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Protector</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>50</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Potente</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>4</cantidad>
+      <precio>40</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-093'>
+    <usuario>CupidDust</usuario>
+    <articulo>
+      <nombreArticulo>Goodison Park</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>63</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Gallop Dance (Gangnam Style)</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Aguila</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Sombra</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-094'>
+    <usuario>CongoWire</usuario>
+    <articulo>
+      <nombreArticulo>Dean Court</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>8</cantidad>
+      <precio>56</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>King Power Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Dance</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-095'>
+    <usuario>DiscoThunder</usuario>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>90</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Motorbike</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-096'>
+    <usuario>AdmiralTot</usuario>
+    <articulo>
+      <nombreArticulo>Francotirador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Patty Cake</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>9</cantidad>
+      <precio>45</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Juventus Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>10</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Calm Down</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>35</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-097'>
+    <usuario>Cocktail</usuario>
+    <articulo>
+      <nombreArticulo>Gato</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Tirador preciso</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>7</cantidad>
+      <precio>70</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Kiss the Wrist</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>5</cantidad>
+      <precio>25</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-098'>
+    <usuario>DriftManiac</usuario>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Turf Moor</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-099'>
+    <usuario>DevilBlade</usuario>
+    <articulo>
+      <nombreArticulo>Gladiador</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>1</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Emirates Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>21</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Liberty Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>42</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Stand Tall</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>2</cantidad>
+      <precio>10</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Bailando Robot</nombreArticulo>
+      <tipoArticulo>Baile</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>15</precio>
+    </articulo>
+  </compra>
+  <compra idCompra='compra-100'>
+    <usuario>Cujo</usuario>
+    <articulo>
+      <nombreArticulo>Amex Stadium</nombreArticulo>
+      <tipoArticulo>Estadio</tipoArticulo>
+      <cantidad>6</cantidad>
+      <precio>42</precio>
+    </articulo>
+    <articulo>
+      <nombreArticulo>Escudo</nombreArticulo>
+      <tipoArticulo>Mejora</tipoArticulo>
+      <cantidad>3</cantidad>
+      <precio>30</precio>
+    </articulo>
+  </compra>
+
+</compras>

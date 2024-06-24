@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="clubes">
+    <xs:complexType>
+    <xs:sequence>
+        <xs:element name="club" maxOccurs="unbounded">
+            <xs:complexType>
+            <xs:sequence>
+                <xs:element name="trofeos">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="trofeo"  maxOccurs="unbounded">
+                                <xs:complexType>
+                                
+                                   
+                                    <xs:attribute name="edicion" use="required" type="xs:string"/>  
+                                    <xs:attribute name="nombreTrofeo" use="required" type="xs:string"/>  
+                                   
+            
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+
+                </xs:element>
+              
+
+            </xs:sequence>  
+            <xs:attribute name="nombreC" use="required" type="xs:ID"/>  
+            </xs:complexType>
+
+        </xs:element>
+
+
+    </xs:sequence>    
+    </xs:complexType>
+    <xs:key name="trofeos">
+        <xs:selector xpath="club/trofeos/trofeo"/>
+        <xs:field xpath="@edicion"/>
+        <xs:field xpath="@nombreTrofeo"/>
+    
+      </xs:key>
+</xs:element>
+
+
+
+</xs:schema>

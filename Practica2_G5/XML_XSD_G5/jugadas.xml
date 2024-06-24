@@ -1,0 +1,2677 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<partidos xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="jugadas.xsd">
+    <partido id='partido-001'>
+        <jugadores>
+            <jugador>BugFire</jugador>
+            <jugador>DancingMadman</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>2:10</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Sergi Roberto</futbolista>
+            </gol>
+            <cambio>
+                <minuto>17:30</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-002'>
+        <jugadores>
+            <jugador>Waffle</jugador>
+            <jugador>AcidGosling</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>9:30</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <cambio>
+                <minuto>18:17</minuto>
+                <equipo>Barcelona</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <tarjeta>
+                <minuto>23:58</minuto>
+                <color>amarilla</color>
+                <futbolista>Busquets</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-003'>
+        <jugadores>
+            <jugador>ChocoNutsX</jugador>
+            <jugador>ChipQueen</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>19:31</minuto>
+                <equipo>Manchester United</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <gol>
+                <minuto>27:52</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>Marquinhos</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-004'>
+        <jugadores>
+            <jugador>BabyBrown</jugador>
+            <jugador>BazookaHar-de-har</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester City</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>6:33</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>K.Walker</futbolista>
+            </gol>
+            <gol>
+                <minuto>17:23</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Asensio</futbolista>
+            </gol>
+            <cambio>
+                <minuto>26:48</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <gol>
+                <minuto>33:10</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>Ederson Moraes</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-005'>
+        <jugadores>
+            <jugador>CenturionSherman</jugador>
+            <jugador>CrissCross</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>7:31</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <gol>
+                <minuto>12:51</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>M.Demiral</futbolista>
+            </gol>
+            <cambio>
+                <minuto>24:53</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <gol>
+                <minuto>37:34</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>L.Modric</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-006'>
+        <jugadores>
+            <jugador>AccidentalGenius</jugador>
+            <jugador>BoomBlaster</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>2:51</minuto>
+                <color>amarilla</color>
+                <futbolista>R.Burki</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>15:16</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <cambio>
+                <minuto>17:41</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>25:54</minuto>
+                <color>amarilla</color>
+                <futbolista>A.Ramsey</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-007'>
+        <jugadores>
+            <jugador>Pixels</jugador>
+            <jugador>BettyCricket</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>11:59</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>Morata</futbolista>
+            </gol>
+            <gol>
+                <minuto>14:36</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>F.Chiesa</futbolista>
+            </gol>
+            <gol>
+                <minuto>18:17</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>M.Demiral</futbolista>
+            </gol>
+            <cambio>
+                <minuto>25:25</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-008'>
+        <jugadores>
+            <jugador>AlleyFrog</jugador>
+            <jugador>BeetleKing</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>14:15</minuto>
+                <color>amarilla</color>
+                <futbolista>Cristiano Ronaldo</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>18:35</minuto>
+                <color>amarilla</color>
+                <futbolista>W.Szczesny</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>30:47</minuto>
+                <color>roja</color>
+                <futbolista>J.Campuzano</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-009'>
+        <jugadores>
+            <jugador>CoBolt</jugador>
+            <jugador>DancingMadman</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>9:37</minuto>
+                <color>roja</color>
+                <futbolista>F.Fabra</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>23:22</minuto>
+                <equipo>Boca Juniors</equipo>
+                <futbolista>S.Villa</futbolista>
+            </gol>
+            <cambio>
+                <minuto>33:53</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-010'>
+        <jugadores>
+            <jugador>Alpha</jugador>
+            <jugador>Cujo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>15:20</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <cambio>
+                <minuto>32:29</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>41:38</minuto>
+                <equipo>PSG</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-011'>
+        <jugadores>
+            <jugador>CerealKiller</jugador>
+            <jugador>ChipQueen</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>25:39</minuto>
+                <color>roja</color>
+                <futbolista>M.Dahoud</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-012'>
+        <jugadores>
+            <jugador>Dredd</jugador>
+            <jugador>DriftDetector</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>13:25</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>J.Sancho</futbolista>
+            </gol>
+            <cambio>
+                <minuto>16:47</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-013'>
+        <jugadores>
+            <jugador>BeetleKing</jugador>
+            <jugador>CongoWire</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>10:52</minuto>
+                <color>roja</color>
+                <futbolista>H.Maguire</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>15:35</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <cambio>
+                <minuto>23:19</minuto>
+                <equipo>Barcelona</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>26:31</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-014'>
+        <jugadores>
+            <jugador>Waffle</jugador>
+            <jugador>Dredd</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>10:47</minuto>
+                <color>amarilla</color>
+                <futbolista>David De Gea</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>12:57</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>20:30</minuto>
+                <color>roja</color>
+                <futbolista>L.Paredes</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>22:49</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>S.Mctominay</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-015'>
+        <jugadores>
+            <jugador>Blitz</jugador>
+            <jugador>CupidDust</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>15:32</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Modric</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>22:22</minuto>
+                <color>amarilla</color>
+                <futbolista>T.Meunier</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>32:59</minuto>
+                <color>amarilla</color>
+                <futbolista>E.Haaland</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>37:45</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>M.Dahoud</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-016'>
+        <jugadores>
+            <jugador>DanimalDaze</jugador>
+            <jugador>BoomBlaster</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>15:33</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Pique</futbolista>
+            </gol>
+            <gol>
+                <minuto>23:46</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Jordi Alba</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>38:45</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Messi</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>51:23</minuto>
+                <color>amarilla</color>
+                <futbolista>Danilo Pereira</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-017'>
+        <jugadores>
+            <jugador>DanimalDaze</jugador>
+            <jugador>Blitz</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>14:16</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>A.Palavecino</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>24:30</minuto>
+                <color>roja</color>
+                <futbolista>M.Suarez</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-018'>
+        <jugadores>
+            <jugador>CenturionSherman</jugador>
+            <jugador>CobraBite</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>14:32</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>W.Szczesny</futbolista>
+            </gol>
+            <cambio>
+                <minuto>27:41</minuto>
+                <equipo>Boca Juniors</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>38:21</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-019'>
+        <jugadores>
+            <jugador>Dredd</jugador>
+            <jugador>DiamondGamer</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>1:24</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>A.Raibot</futbolista>
+            </gol>
+            <gol>
+                <minuto>16:14</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>Morata</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-020'>
+        <jugadores>
+            <jugador>Blitz</jugador>
+            <jugador>Bowler</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>14:43</minuto>
+                <color>roja</color>
+                <futbolista>A.Palavecino</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>19:40</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>32:54</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <gol>
+                <minuto>43:37</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>N.De La Cruz</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-021'>
+        <jugadores>
+            <jugador>Cujo</jugador>
+            <jugador>Bowler</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>4:23</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>9:28</minuto>
+                <color>roja</color>
+                <futbolista>Nacho</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>19:46</minuto>
+                <color>amarilla</color>
+                <futbolista>T.Kross</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-022'>
+        <jugadores>
+            <jugador>ChicagoBlackout</jugador>
+            <jugador>CandyButcher</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>13:13</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>24:10</minuto>
+                <color>roja</color>
+                <futbolista>Busquets</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>28:25</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>A.Griezmann</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>34:18</minuto>
+                <color>roja</color>
+                <futbolista>E.Andrada</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-023'>
+        <jugadores>
+            <jugador>CobraBite</jugador>
+            <jugador>BugBlitz</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>8:12</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <cambio>
+                <minuto>17:35</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>21:18</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Demiral</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-024'>
+        <jugadores>
+            <jugador>CelticCharger</jugador>
+            <jugador>BeetleKing</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>1:20</minuto>
+                <equipo>Boca Juniors</equipo>
+                <futbolista>C.Zambrano</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>8:59</minuto>
+                <color>roja</color>
+                <futbolista>E.Perez</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>24:15</minuto>
+                <equipo>Boca Juniors</equipo>
+                <futbolista>S.Villa</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-025'>
+        <jugadores>
+            <jugador>Cabbie</jugador>
+            <jugador>CerealKiller</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>12:37</minuto>
+                <color>amarilla</color>
+                <futbolista>Asensio</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>13:59</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>25:32</minuto>
+                <color>amarilla</color>
+                <futbolista>Ansu Fati</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>26:33</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-026'>
+        <jugadores>
+            <jugador>Broomspun</jugador>
+            <jugador>Chuckles</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>7:56</minuto>
+                <color>roja</color>
+                <futbolista>J.Sancho</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>12:18</minuto>
+                <color>roja</color>
+                <futbolista>M.Hummels</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>15:18</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>24:42</minuto>
+                <color>roja</color>
+                <futbolista>T.Hazard</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-027'>
+        <jugadores>
+            <jugador>DaisyCraft</jugador>
+            <jugador>DiamondGamer</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>1:38</minuto>
+                <color>amarilla</color>
+                <futbolista>E.Andrada</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>5:31</minuto>
+                <equipo>Boca Juniors</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <tarjeta>
+                <minuto>8:55</minuto>
+                <color>roja</color>
+                <futbolista>F.Fabra</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-028'>
+        <jugadores>
+            <jugador>Blitz</jugador>
+            <jugador>Commando</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>5:51</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>M.Diaz</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>23:13</minuto>
+                <color>roja</color>
+                <futbolista>T.Meunier</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>27:13</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Lucas Vazquez</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-029'>
+        <jugadores>
+            <jugador>DiscoMate</jugador>
+            <jugador>DonStab</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>10:59</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <gol>
+                <minuto>30:36</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>Gabriel Jesus</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-030'>
+        <jugadores>
+            <jugador>DayHawk</jugador>
+            <jugador>CoBolt</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>9:47</minuto>
+                <color>amarilla</color>
+                <futbolista>T.Delaney</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>16:25</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>T.Hazard</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-031'>
+        <jugadores>
+            <jugador>CapitalF</jugador>
+            <jugador>DanimalDaze</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>7:57</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>E.Perez</futbolista>
+            </gol>
+            <cambio>
+                <minuto>12:48</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <gol>
+                <minuto>21:33</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>F.Armani</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-032'>
+        <jugadores>
+            <jugador>ChicagoBlackout</jugador>
+            <jugador>AtomicBlastoid</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester City</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>6:38</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>A.Griezmann</futbolista>
+            </gol>
+            <cambio>
+                <minuto>17:32</minuto>
+                <equipo>Manchester City</equipo>
+            </cambio>
+            <cambio>
+                <minuto>27:53</minuto>
+                <equipo>Manchester City</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <tarjeta>
+                <minuto>28:35</minuto>
+                <color>amarilla</color>
+                <futbolista>F.De Jong</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-033'>
+        <jugadores>
+            <jugador>Bitmap</jugador>
+            <jugador>CandyButcher</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>25:34</minuto>
+                <color>amarilla</color>
+                <futbolista>A.Ramsey</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-034'>
+        <jugadores>
+            <jugador>DiscoThunder</jugador>
+            <jugador>DarlingPeacock</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>4:47</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>W.Szczesny</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>5:25</minuto>
+                <color>roja</color>
+                <futbolista>A.Ramsey</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>26:17</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>J.Cuadrado</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-035'>
+        <jugadores>
+            <jugador>Blister</jugador>
+            <jugador>CelticCharger</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>9:51</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <cambio>
+                <minuto>18:54</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <cambio>
+                <minuto>19:36</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <gol>
+                <minuto>26:36</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>M.Akanji</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-036'>
+        <jugadores>
+            <jugador>DaffyGirl</jugador>
+            <jugador>DayHawk</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>6:50</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>A.Florenzi</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>15:29</minuto>
+                <color>roja</color>
+                <futbolista>Marquinhos</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>27:27</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>O.Zinchenko</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-037'>
+        <jugadores>
+            <jugador>CaptainPeroxide</jugador>
+            <jugador>DiamondGamer</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>2:29</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>David De Gea</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>8:55</minuto>
+                <color>amarilla</color>
+                <futbolista>A.Griezmann</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-038'>
+        <jugadores>
+            <jugador>CerealKiller</jugador>
+            <jugador>DarkHorse</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>2:39</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <gol>
+                <minuto>16:55</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Ansu Fati</futbolista>
+            </gol>
+            <cambio>
+                <minuto>21:18</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-039'>
+        <jugadores>
+            <jugador>BeardedAngler</jugador>
+            <jugador>Digger</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>7:29</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <gol>
+                <minuto>8:13</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Sergi Roberto</futbolista>
+            </gol>
+            <cambio>
+                <minuto>16:50</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <gol>
+                <minuto>23:10</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>C.Lenglet</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-040'>
+        <jugadores>
+            <jugador>CandyButcher</jugador>
+            <jugador>Cujo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>14:13</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Kean</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>27:44</minuto>
+                <color>amarilla</color>
+                <futbolista>P.Kimpembe</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>40:23</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>43:54</minuto>
+                <color>roja</color>
+                <futbolista>T.Courtois</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-041'>
+        <jugadores>
+            <jugador>CandyButcher</jugador>
+            <jugador>DaisyCraft</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>14:50</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>F.Armani</futbolista>
+            </gol>
+            <cambio>
+                <minuto>24:35</minuto>
+                <equipo>River Plate</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>35:16</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>48:39</minuto>
+                <color>amarilla</color>
+                <futbolista>J.Sancho</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-042'>
+        <jugadores>
+            <jugador>DiscoMate</jugador>
+            <jugador>CupidDust</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester City</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>14:17</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>M.Suarez</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>22:37</minuto>
+                <color>roja</color>
+                <futbolista>R.Mahrez</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>36:50</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>E.Perez</futbolista>
+            </gol>
+            <cambio>
+                <minuto>46:36</minuto>
+                <equipo>Manchester City</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-043'>
+        <jugadores>
+            <jugador>Digger</jugador>
+            <jugador>CrashTest</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>8:12</minuto>
+                <equipo>Manchester United</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <gol>
+                <minuto>13:45</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>P.Pogba</futbolista>
+            </gol>
+            <cambio>
+                <minuto>24:48</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <cambio>
+                <minuto>34:31</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-044'>
+        <jugadores>
+            <jugador>BackBett</jugador>
+            <jugador>BabyBrown</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>14:15</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <cambio>
+                <minuto>21:43</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <gol>
+                <minuto>26:12</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>Morata</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-045'>
+        <jugadores>
+            <jugador>CollaterolDamage</jugador>
+            <jugador>DiamondGamer</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>9:39</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>T.Kross</futbolista>
+            </gol>
+            <gol>
+                <minuto>15:13</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Isco</futbolista>
+            </gol>
+            <cambio>
+                <minuto>25:21</minuto>
+                <equipo>Juventus</equipo>
+            </cambio>
+            <gol>
+                <minuto>39:51</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>R.Varane</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-046'>
+        <jugadores>
+            <jugador>Buckshot</jugador>
+            <jugador>Bitmap</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Borussia Dortmund</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>12:39</minuto>
+                <color>roja</color>
+                <futbolista>M.Dahoud</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>26:53</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>Raphael Guerreiro</futbolista>
+            </gol>
+            <cambio>
+                <minuto>31:39</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>36:32</minuto>
+                <color>amarilla</color>
+                <futbolista>J.Maidana</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-047'>
+        <jugadores>
+            <jugador>Cujo</jugador>
+            <jugador>Blister</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>25:27</minuto>
+                <color>roja</color>
+                <futbolista>A.Diallo</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>28:33</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Lucas Vazquez</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-048'>
+        <jugadores>
+            <jugador>CobraBite</jugador>
+            <jugador>BeardedAngler</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester City</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>7:34</minuto>
+                <color>roja</color>
+                <futbolista>R.Mahrez</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>15:58</minuto>
+                <color>roja</color>
+                <futbolista>Ederson Moraes</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>19:45</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>L.Bonucci</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-049'>
+        <jugadores>
+            <jugador>WaysToMeetYourMaker</jugador>
+            <jugador>AlphaReturns</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>9:41</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <cambio>
+                <minuto>19:50</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-050'>
+        <jugadores>
+            <jugador>DanimalDaze</jugador>
+            <jugador>ChewChew</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>4:32</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>19:49</minuto>
+                <color>roja</color>
+                <futbolista>N.Capaldo</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>35:21</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Lucas Vazquez</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-051'>
+        <jugadores>
+            <jugador>ChipQueen</jugador>
+            <jugador>Alpha</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>10:46</minuto>
+                <color>amarilla</color>
+                <futbolista>P.Diaz</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>12:49</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>J.Alvarez</futbolista>
+            </gol>
+            <cambio>
+                <minuto>27:51</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>34:36</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-052'>
+        <jugadores>
+            <jugador>Cocktail</jugador>
+            <jugador>BugBlitz</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>1:54</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Kean</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>14:55</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>K.Navas</futbolista>
+            </gol>
+            <cambio>
+                <minuto>18:35</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <gol>
+                <minuto>30:28</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>F.Armani</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-053'>
+        <jugadores>
+            <jugador>CrazyEights</jugador>
+            <jugador>ArsenicCoo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>3:56</minuto>
+                <color>amarilla</color>
+                <futbolista>Cristiano Ronaldo</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>19:46</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Busquets</futbolista>
+            </gol>
+            <gol>
+                <minuto>28:40</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Sergi Roberto</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-054'>
+        <jugadores>
+            <jugador>DiscoPotato</jugador>
+            <jugador>Breadmaker</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>15:20</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>M.Casco</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>19:21</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Suarez</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>22:50</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>Bernardo</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-055'>
+        <jugadores>
+            <jugador>CrashOverride</jugador>
+            <jugador>DozKiller</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>8:58</minuto>
+                <equipo>Manchester City</equipo>
+            </cambio>
+            <cambio>
+                <minuto>18:33</minuto>
+                <equipo>Real Madrid</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <gol>
+                <minuto>30:13</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Nacho</futbolista>
+            </gol>
+            <gol>
+                <minuto>44:29</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>M.Diaz</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-056'>
+        <jugadores>
+            <jugador>ArsenicCoo</jugador>
+            <jugador>CoolIris</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>25:21</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Bonucci</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>27:14</minuto>
+                <color>roja</color>
+                <futbolista>A.Wan-Bissaka</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>40:59</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>R.Bentancur</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-057'>
+        <jugadores>
+            <jugador>Blister</jugador>
+            <jugador>ChewChew</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>14:38</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <gol>
+                <minuto>25:18</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>E.Haaland</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-058'>
+        <jugadores>
+            <jugador>Alpha</jugador>
+            <jugador>BitSentinel</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>2:19</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>Ederson Moraes</futbolista>
+            </gol>
+            <cambio>
+                <minuto>7:30</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <cambio>
+                <minuto>20:57</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-059'>
+        <jugadores>
+            <jugador>DiscoThunder</jugador>
+            <jugador>CommandX</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>7:47</minuto>
+                <equipo>PSG</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>22:39</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <gol>
+                <minuto>42:39</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>K.Mbappe</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-060'>
+        <jugadores>
+            <jugador>BadBunny</jugador>
+            <jugador>AutomaticSlicer</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>15:39</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>J.Maidana</futbolista>
+            </gol>
+            <cambio>
+                <minuto>32:15</minuto>
+                <equipo>River Plate</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-061'>
+        <jugadores>
+            <jugador>Dredd</jugador>
+            <jugador>Buckshot</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>8:23</minuto>
+                <color>amarilla</color>
+                <futbolista>Marquinhos</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>10:16</minuto>
+                <color>amarilla</color>
+                <futbolista>Neymar</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>21:46</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-062'>
+        <jugadores>
+            <jugador>Broomspun</jugador>
+            <jugador>DancingMadman</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>8:12</minuto>
+                <color>roja</color>
+                <futbolista>N.De La Cruz</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>22:24</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>N.De La Cruz</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>31:30</minuto>
+                <color>amarilla</color>
+                <futbolista>E.Perez</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-063'>
+        <jugadores>
+            <jugador>DiamondGamer</jugador>
+            <jugador>CupidDust</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>15:57</minuto>
+                <color>amarilla</color>
+                <futbolista>A.Raibot</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>30:11</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Demiral</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>44:39</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>Bruno Fernandes</futbolista>
+            </gol>
+            <gol>
+                <minuto>55:58</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>A.Wan-Bissaka</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-064'>
+        <jugadores>
+            <jugador>Dredd</jugador>
+            <jugador>ChewChew</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>11:15</minuto>
+                <equipo>Barcelona</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>26:52</minuto>
+                <color>roja</color>
+                <futbolista>Danilo Pereira</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-065'>
+        <jugadores>
+            <jugador>Cosmo</jugador>
+            <jugador>Commando</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>9:21</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>J.Sancho</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>17:15</minuto>
+                <color>roja</color>
+                <futbolista>Casemiro</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>28:45</minuto>
+                <color>roja</color>
+                <futbolista>T.Meunier</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-066'>
+        <jugadores>
+            <jugador>BoomBlaster</jugador>
+            <jugador>DaffyGirl</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>11:15</minuto>
+                <equipo>River Plate</equipo>
+                <futbolista>J.Alvarez</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>25:14</minuto>
+                <color>roja</color>
+                <futbolista>J.Cuadrado</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>29:18</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>30:20</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-067'>
+        <jugadores>
+            <jugador>CenturionSherman</jugador>
+            <jugador>Cabbie</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>5:56</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <gol>
+                <minuto>11:29</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>M.Rashford</futbolista>
+            </gol>
+            <cambio>
+                <minuto>26:41</minuto>
+                <equipo>PSG</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-068'>
+        <jugadores>
+            <jugador>Commando</jugador>
+            <jugador>Bonzai</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>6:33</minuto>
+                <color>roja</color>
+                <futbolista>E.Andrada</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>35:51</minuto>
+                <equipo>Real Madrid</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-069'>
+        <jugadores>
+            <jugador>DaisyCraft</jugador>
+            <jugador>ChicagoBlackout</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>8:44</minuto>
+                <color>roja</color>
+                <futbolista>I.Gundogan</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>23:32</minuto>
+                <color>roja</color>
+                <futbolista>K.Mbappe</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>25:55</minuto>
+                <color>roja</color>
+                <futbolista>A.Laporte</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>30:51</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>Danilo Pereira</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-070'>
+        <jugadores>
+            <jugador>CandyButcher</jugador>
+            <jugador>CelticCharger</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>8:28</minuto>
+                <color>roja</color>
+                <futbolista>Neymar</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>23:19</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Ansu Fati</futbolista>
+            </gol>
+            <gol>
+                <minuto>45:23</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>A.Griezmann</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-071'>
+        <jugadores>
+            <jugador>Cabbie</jugador>
+            <jugador>AirportHobo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>22:37</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>Marquinhos</futbolista>
+            </gol>
+            <cambio>
+                <minuto>47:42</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-072'>
+        <jugadores>
+            <jugador>CrossThread</jugador>
+            <jugador>BettyCricket</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>15:23</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>A.Diallo</futbolista>
+            </gol>
+            <gol>
+                <minuto>28:52</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>V.Lindelof</futbolista>
+            </gol>
+            <gol>
+                <minuto>35:36</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>Fred</futbolista>
+            </gol>
+            <cambio>
+                <minuto>39:41</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-073'>
+        <jugadores>
+            <jugador>CrashTest</jugador>
+            <jugador>DiscoThunder</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>13:19</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>22:10</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Shaw</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-074'>
+        <jugadores>
+            <jugador>BootlegTaximan</jugador>
+            <jugador>Cujo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>15:48</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>16:15</minuto>
+                <color>roja</color>
+                <futbolista>M.Diaz</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>30:41</minuto>
+                <color>roja</color>
+                <futbolista>R.Borre</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-075'>
+        <jugadores>
+            <jugador>DevilBlade</jugador>
+            <jugador>BootlegTaximan</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>9:56</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+            <gol>
+                <minuto>21:18</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>T.Courtois</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-076'>
+        <jugadores>
+            <jugador>Bowler</jugador>
+            <jugador>AccidentalGenius</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>5:43</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>16:47</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <gol>
+                <minuto>21:19</minuto>
+                <equipo>Borussia Dortmund</equipo>
+                <futbolista>G.Reyna</futbolista>
+            </gol>
+            <cambio>
+                <minuto>32:47</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-077'>
+        <jugadores>
+            <jugador>ChocoNutsX</jugador>
+            <jugador>Desperado</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>12:13</minuto>
+                <color>amarilla</color>
+                <futbolista>Nacho</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>16:21</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>R.Varane</futbolista>
+            </gol>
+            <gol>
+                <minuto>19:28</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>K.Mbappe</futbolista>
+            </gol>
+            <cambio>
+                <minuto>28:55</minuto>
+                <equipo>Real Madrid</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-078'>
+        <jugadores>
+            <jugador>DevilChick</jugador>
+            <jugador>BettyCricket</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>10:38</minuto>
+                <color>roja</color>
+                <futbolista>P.Pogba</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>17:41</minuto>
+                <color>roja</color>
+                <futbolista>Busquets</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>45:28</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Rashford</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-079'>
+        <jugadores>
+            <jugador>ChipQueen</jugador>
+            <jugador>BloodEater</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>PSG</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>9:10</minuto>
+                <equipo>Manchester United</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>20:42</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <cambio>
+                <minuto>24:56</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-080'>
+        <jugadores>
+            <jugador>CrossThread</jugador>
+            <jugador>BeetleKing</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>2:44</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <gol>
+                <minuto>12:17</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Ansu Fati</futbolista>
+            </gol>
+            <cambio>
+                <minuto>25:20</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-081'>
+        <jugadores>
+            <jugador>BazookaHar-de-har</jugador>
+            <jugador>CobraBite</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>5:32</minuto>
+                <color>roja</color>
+                <futbolista>C.Medina</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>10:50</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>26:45</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Messi</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-082'>
+        <jugadores>
+            <jugador>DevilChick</jugador>
+            <jugador>CrossThread</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>1:51</minuto>
+                <color>roja</color>
+                <futbolista>Nacho</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>11:58</minuto>
+                <color>amarilla</color>
+                <futbolista>Nacho</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>15:52</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Lucas Vazquez</futbolista>
+            </gol>
+            <cambio>
+                <minuto>17:36</minuto>
+                <equipo>Boca Juniors</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-083'>
+        <jugadores>
+            <jugador>DesertHaze</jugador>
+            <jugador>BitSentinel</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>14:59</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>Marquinhos</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>19:35</minuto>
+                <color>roja</color>
+                <futbolista>P.Diaz</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-084'>
+        <jugadores>
+            <jugador>CelticCharger</jugador>
+            <jugador>ArsenicCoo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>3:50</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>L.Shaw</futbolista>
+            </gol>
+            <gol>
+                <minuto>17:55</minuto>
+                <equipo>Manchester United</equipo>
+                <futbolista>David De Gea</futbolista>
+            </gol>
+            <cambio>
+                <minuto>29:39</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-085'>
+        <jugadores>
+            <jugador>DevilChick</jugador>
+            <jugador>DriftDetector</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>12:27</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <cambio>
+                <minuto>16:42</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <cambio>
+                <minuto>28:38</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-086'>
+        <jugadores>
+            <jugador>Bonzai</jugador>
+            <jugador>CoBolt</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester United</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>21:57</minuto>
+                <equipo>Manchester United</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>32:37</minuto>
+                <color>amarilla</color>
+                <futbolista>C.Medina</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-087'>
+        <jugadores>
+            <jugador>Cabbie</jugador>
+            <jugador>CoBolt</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>11:26</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>A.Diallo</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>12:19</minuto>
+                <color>roja</color>
+                <futbolista>T.Kross</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>22:13</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>T.Kross</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-088'>
+        <jugadores>
+            <jugador>Angel</jugador>
+            <jugador>DarlingPeacock</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>15:49</minuto>
+                <color>roja</color>
+                <futbolista>M.Suarez</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>20:35</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>23:42</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <cambio>
+                <minuto>31:44</minuto>
+                <equipo>River Plate</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-089'>
+        <jugadores>
+            <jugador>DahliaBumble</jugador>
+            <jugador>ChicagoBlackout</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Manchester City</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>7:29</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>I.Gundogan</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>12:52</minuto>
+                <color>amarilla</color>
+                <futbolista>Cristiano Ronaldo</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>24:38</minuto>
+                <color>roja</color>
+                <futbolista>K.Walker</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>31:14</minuto>
+                <equipo>Manchester City</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-090'>
+        <jugadores>
+            <jugador>DayHawk</jugador>
+            <jugador>BugBlitz</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>5:51</minuto>
+                <equipo>Juventus</equipo>
+                <futbolista>Alex Sandro</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>12:50</minuto>
+                <color>amarilla</color>
+                <futbolista>L.Bonucci</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>25:50</minuto>
+                <color>roja</color>
+                <futbolista>A.Ramsey</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>37:35</minuto>
+                <color>amarilla</color>
+                <futbolista>R.Varane</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-091'>
+        <jugadores>
+            <jugador>BlisteredOutlaw</jugador>
+            <jugador>DiscoPotato</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Borussia Dortmund</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>6:17</minuto>
+                <equipo>Borussia Dortmund</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>13:58</minuto>
+                <color>amarilla</color>
+                <futbolista>R.Burki</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>30:24</minuto>
+                <equipo>PSG</equipo>
+                <futbolista>Danilo Pereira</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-092'>
+        <jugadores>
+            <jugador>ChicagoBlackout</jugador>
+            <jugador>DriftManiac</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Barcelona</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>13:49</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Casco</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>20:16</minuto>
+                <color>roja</color>
+                <futbolista>F.Armani</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>23:20</minuto>
+                <color>amarilla</color>
+                <futbolista>J.Maidana</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-093'>
+        <jugadores>
+            <jugador>CaptainPeroxide</jugador>
+            <jugador>BloodEater</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Manchester City</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>15:34</minuto>
+                <equipo>Manchester City</equipo>
+                <futbolista>R.Mahrez</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>27:39</minuto>
+                <color>amarilla</color>
+                <futbolista>R.Mahrez</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>33:25</minuto>
+                <equipo>Manchester City</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+            <cambio>
+                <minuto>38:46</minuto>
+                <equipo>Manchester City</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-094'>
+        <jugadores>
+            <jugador>BoomBlaster</jugador>
+            <jugador>Dangle</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>15:21</minuto>
+                <color>amarilla</color>
+                <futbolista>C.Zambrano</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>19:37</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <cambio>
+                <minuto>24:18</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-095'>
+        <jugadores>
+            <jugador>AcidGosling</jugador>
+            <jugador>ArsenicCoo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Barcelona</equipo>
+            <equipo>Real Madrid</equipo>
+        </equipos>
+        <jugadas>
+            <gol>
+                <minuto>3:20</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>C.Lenglet</futbolista>
+            </gol>
+            <gol>
+                <minuto>29:23</minuto>
+                <equipo>Barcelona</equipo>
+                <futbolista>Pique</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-096'>
+        <jugadores>
+            <jugador>Desperado</jugador>
+            <jugador>Cosmo</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Manchester United</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>4:22</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>15:36</minuto>
+                <color>amarilla</color>
+                <futbolista>M.Casco</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>20:47</minuto>
+                <color>amarilla</color>
+                <futbolista>N.De La Cruz</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-097'>
+        <jugadores>
+            <jugador>Breadmaker</jugador>
+            <jugador>DonStab</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>River Plate</equipo>
+            <equipo>Boca Juniors</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>2:31</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <tarjeta>
+                <minuto>16:40</minuto>
+                <color>roja</color>
+                <futbolista>M.Casco</futbolista>
+            </tarjeta>
+            <tarjeta>
+                <minuto>17:10</minuto>
+                <color>roja</color>
+                <futbolista>R.Borre</futbolista>
+            </tarjeta>
+            <cambio>
+                <minuto>28:31</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+        </jugadas>
+    </partido>
+    <partido id='partido-098'>
+        <jugadores>
+            <jugador>CollaterolDamage</jugador>
+            <jugador>CoolWhip</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Real Madrid</equipo>
+            <equipo>Juventus</equipo>
+        </equipos>
+        <jugadas>
+            <tarjeta>
+                <minuto>11:39</minuto>
+                <color>roja</color>
+                <futbolista>T.Courtois</futbolista>
+            </tarjeta>
+            <gol>
+                <minuto>28:37</minuto>
+                <equipo>Real Madrid</equipo>
+                <futbolista>Isco</futbolista>
+            </gol>
+            <tarjeta>
+                <minuto>43:27</minuto>
+                <color>amarilla</color>
+                <futbolista>R.Bentancur</futbolista>
+            </tarjeta>
+        </jugadas>
+    </partido>
+    <partido id='partido-099'>
+        <jugadores>
+            <jugador>DriftManiac</jugador>
+            <jugador>AgentHercules</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Boca Juniors</equipo>
+            <equipo>River Plate</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>10:34</minuto>
+                <equipo>River Plate</equipo>
+            </cambio>
+            <cambio>
+                <minuto>25:31</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <cambio>
+                <minuto>39:20</minuto>
+                <equipo>Boca Juniors</equipo>
+            </cambio>
+            <gol>
+                <minuto>53:18</minuto>
+                <equipo>Boca Juniors</equipo>
+                <futbolista>M.Rojo</futbolista>
+            </gol>
+        </jugadas>
+    </partido>
+    <partido id='partido-100'>
+        <jugadores>
+            <jugador>DriftManiac</jugador>
+            <jugador>CrossThread</jugador>
+        </jugadores>
+        <equipos>
+            <equipo>Juventus</equipo>
+            <equipo>PSG</equipo>
+        </equipos>
+        <jugadas>
+            <cambio>
+                <minuto>14:29</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <cambio>
+                <minuto>27:50</minuto>
+                <equipo>PSG</equipo>
+            </cambio>
+            <cambio>
+                <minuto>33:58</minuto>
+                <equipo>PSG</equipo>
+                <lesion>Si</lesion>
+            </cambio>
+        </jugadas>
+    </partido>
+</partidos>

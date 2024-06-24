@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="compras">
+        <xs:complexType>
+        <xs:sequence>
+            <xs:element name="compra" maxOccurs="unbounded">
+                <xs:complexType>
+                <xs:sequence>
+                    <xs:element name="usuario" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                    <xs:element name="articulo" minOccurs="1" maxOccurs="unbounded">
+                       <xs:complexType>
+                       <xs:sequence>
+                        <xs:element name="nombreArticulo" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                        <xs:element name="tipoArticulo" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                        <xs:element name="cantidad" minOccurs="1" maxOccurs="1" type="xs:int"/>
+                        <xs:element name="precio" minOccurs="1" maxOccurs="1" type="xs:int"/>
+                       </xs:sequence>    
+                       </xs:complexType> 
+                    </xs:element>
+
+
+                </xs:sequence> 
+                   
+                <xs:attribute name="idCompra" use="required" >
+                    <xs:simpleType>
+                     <xs:restriction base="xs:ID">
+                        <xs:pattern value="[c][o][m][p][r][a][-][0-9][0-9][0-9]"></xs:pattern>
+                     </xs:restriction>
+                    </xs:simpleType>   
+                </xs:attribute>
+
+                </xs:complexType>
+            </xs:element>
+
+
+        </xs:sequence>  
+        </xs:complexType>
+
+    </xs:element>
+
+
+
+
+
+</xs:schema>

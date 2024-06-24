@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="futbolistas">
+        <xs:complexType>
+        <xs:sequence>
+            <xs:element name="futbolista" maxOccurs="unbounded">
+                <xs:complexType>
+                <xs:sequence>
+                    
+                    <xs:element name="nombre" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                    <xs:element name="equipo" minOccurs="1" maxOccurs="2">
+                        <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombreEquipo" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                            <xs:element name="pais" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                            <xs:element name="liga" minOccurs="1" maxOccurs="1" type="xs:string"/>
+                        </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                <!--    <xs:element name="edad" minOccurs="1" maxOccurs="1"  type="xs:int"/>--> 
+                    <xs:element name="cartas" minOccurs="1" maxOccurs="1">
+                        <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="carta" minOccurs="1" maxOccurs="unbounded"  >
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="mediaCarta" minOccurs="1 " maxOccurs="1" type="media"/>
+                                    </xs:sequence>
+                            <xs:attribute name="tipoCarta" use="required" type="xs:string"/>      
+                                      
+                </xs:complexType>
+                            </xs:element>
+
+                        </xs:sequence>
+                                           
+                        </xs:complexType>
+                        </xs:element>
+                </xs:sequence>    
+                
+                <xs:attribute name="idF" use="required" >
+                    <xs:simpleType>
+                     <xs:restriction base="xs:ID">
+                        <xs:pattern value="[f][-][0-9][0-9][0-9]"></xs:pattern>
+                     </xs:restriction>
+                    </xs:simpleType>   
+                </xs:attribute>
+
+                </xs:complexType>
+            </xs:element>
+
+        </xs:sequence>
+
+        </xs:complexType>
+
+       <!--  <xs:unique name="cartas">
+            <xs:selector xpath="futbolista"/>
+            <xs:field   xpath="@idF"/>
+            <xs:field xpath="cartas/carta/@tipoCarta"/>
+        </xs:unique> 
+    -->
+       <!--   <xs:keyref name="cartasRef" refer="cartas">
+            <xs:selector xpath="futbolista/cartas/carta" />
+            <xs:field xpath="@tipoCarta" />
+          </xs:keyref>
+--> 
+    </xs:element>
+
+<xs:simpleType name="media">
+    <xs:restriction base="xs:positiveInteger">
+        <xs:minInclusive value="1"/>
+        <xs:maxInclusive value="99"/>
+    </xs:restriction>
+</xs:simpleType>
+
+
+
+</xs:schema>

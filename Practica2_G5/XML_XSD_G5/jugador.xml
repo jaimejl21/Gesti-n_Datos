@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<jugadores xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="jugador.xsd">
+	<jugador idJug='WaysToMeetYourMaker'>
+		<division>5</division>
+		<monedas>65</monedas>
+		<cuentaOrigin>LittleGeneral</cuentaOrigin>
+		<club>Fire Feline</club>
+	</jugador>
+	<jugador idJug='Waffle'>
+		<division>9</division>
+		<monedas>53</monedas>
+		<cuentaOrigin>LittleTickle</cuentaOrigin>
+		<club>Global meltdown</club>
+	</jugador>
+	<jugador idJug='Pixels'>
+		<division>5</division>
+		<monedas>53</monedas>
+	</jugador>
+	<jugador idJug='AccidentalGenius'>
+		<division>8</division>
+		<monedas>50</monedas>
+		<cuentaOrigin>LordNikon</cuentaOrigin>
+		<club>Father Abbot</club>
+	</jugador>
+	<jugador idJug='AcidGosling'>
+		<division>9</division>
+		<monedas>59</monedas>
+	</jugador>
+	<jugador idJug='AdmiralTot'>
+		<division>8</division>
+		<monedas>100</monedas>
+		<cuentaOrigin>LordTheus</cuentaOrigin>
+		<club>Flint</club>
+	</jugador>
+	<jugador idJug='AgentHercules'>
+		<division>4</division>
+		<monedas>97</monedas>
+		<cuentaOrigin>Lucky</cuentaOrigin>
+	</jugador>
+	<jugador idJug='AirportHobo'>
+		<division>10</division>
+		<monedas>66</monedas>
+		<club>Flame OUT</club>
+	</jugador>
+	<jugador idJug='AlleyFrog'>
+		<division>7</division>
+		<monedas>65</monedas>
+		<club>Green Scavenger</club>
+	</jugador>
+	<jugador idJug='Alpha'>
+		<division>1</division>
+		<monedas>97</monedas>
+		<cuentaOrigin>MadIrishman</cuentaOrigin>
+		<club>Fast Draw</club>
+	</jugador>
+	<jugador idJug='AlphaReturns'>
+		<division>7</division>
+		<monedas>95</monedas>
+		<club>ExoticAlpha</club>
+	</jugador>
+	<jugador idJug='Angel'>
+		<division>9</division>
+		<monedas>65</monedas>
+		<cuentaOrigin>MadKid</cuentaOrigin>
+	</jugador>
+	<jugador idJug='AngelsCreed'>
+		<division>5</division>
+		<monedas>68</monedas>
+		<cuentaOrigin>MadRascal</cuentaOrigin>
+	</jugador>
+	<jugador idJug='ArsenicCoo'>
+		<division>10</division>
+		<monedas>88</monedas>
+		<club>DuckDuck</club>
+	</jugador>
+	<jugador idJug='AtomicBlastoid'>
+		<division>2</division>
+		<monedas>55</monedas>
+		<cuentaOrigin>ManMaker</cuentaOrigin>
+		<club>FastLane</club>
+	</jugador>
+	<jugador idJug='AutomaticSlicer'>
+		<division>6</division>
+		<monedas>53</monedas>
+		<cuentaOrigin>Manimal</cuentaOrigin>
+		<club>Global meltdown</club>
+	</jugador>
+	<jugador idJug='BabyBrown'>
+		<division>10</division>
+		<monedas>80</monedas>
+		<club>DuckDuck</club>
+	</jugador>
+	<jugador idJug='BackBett'>
+		<division>5</division>
+		<monedas>99</monedas>
+		<cuentaOrigin>MarigoldLoot</cuentaOrigin>
+	</jugador>
+	<jugador idJug='BadBunny'>
+		<division>6</division>
+		<monedas>59</monedas>
+		<club>Freak</club>
+	</jugador>
+	<jugador idJug='BazookaHar-de-har'>
+		<division>5</division>
+		<monedas>56</monedas>
+		<cuentaOrigin>MarshalKing</cuentaOrigin>
+	</jugador>
+	<jugador idJug='BeardedAngler'>
+		<division>3</division>
+		<monedas>96</monedas>
+		<cuentaOrigin>Marshmallow</cuentaOrigin>
+	</jugador>
+	<jugador idJug='BeetleKing'>
+		<division>7</division>
+		<monedas>55</monedas>
+		<cuentaOrigin>MaxicanChoncho</cuentaOrigin>
+		<club>FrankenGrin</club>
+	</jugador>
+	<jugador idJug='BettyCricket'>
+		<division>6</division>
+		<monedas>78</monedas>
+		<cuentaOrigin>MeetWit</cuentaOrigin>
+		<club>Ghostrider</club>
+	</jugador>
+	<jugador idJug='BitSentinel'>
+		<division>8</division>
+		<monedas>64</monedas>
+		<cuentaOrigin>Mental</cuentaOrigin>
+		<club>Guillotine</club>
+	</jugador>
+	<jugador idJug='Bitmap'>
+		<division>5</division>
+		<monedas>99</monedas>
+		<cuentaOrigin>MercuryReborn</cuentaOrigin>
+		<club>FlyGuardX</club>
+	</jugador>
+	<jugador idJug='BlacKitten'>
+		<division>6</division>
+		<monedas>58</monedas>
+		<cuentaOrigin>MetalStar</cuentaOrigin>
+		<club>Flakes</club>
+	</jugador>
+	<jugador idJug='Blister'>
+		<division>5</division>
+		<monedas>59</monedas>
+		<cuentaOrigin>Midas</cuentaOrigin>
+		<club>Easy Sweep</club>
+	</jugador>
+	<jugador idJug='BlisteredOutlaw'>
+		<division>10</division>
+		<monedas>94</monedas>
+		<cuentaOrigin>MidnightRambler</cuentaOrigin>
+		<club>Flint</club>
+	</jugador>
+	<jugador idJug='Blitz'>
+		<division>8</division>
+		<monedas>50</monedas>
+		<cuentaOrigin>MidnightRider</cuentaOrigin>
+		<club>EyeShooter</club>
+	</jugador>
+	<jugador idJug='BloodEater'>
+		<division>4</division>
+		<monedas>63</monedas>
+		<cuentaOrigin>MightyFellow</cuentaOrigin>
+		<club>FastLane</club>
+	</jugador>
+	<jugador idJug='Bonzai'>
+		<division>7</division>
+		<monedas>73</monedas>
+		<cuentaOrigin>MindBuggle</cuentaOrigin>
+	</jugador>
+	<jugador idJug='BoomBeachLuvr'>
+		<division>4</division>
+		<monedas>94</monedas>
+		<club>Gullyway</club>
+	</jugador>
+	<jugador idJug='BoomBlaster'>
+		<division>5</division>
+		<monedas>77</monedas>
+		<club>Flying Doodle</club>
+	</jugador>
+	<jugador idJug='BootlegTaximan'>
+		<division>1</division>
+		<monedas>70</monedas>
+		<cuentaOrigin>MonkeyKing</cuentaOrigin>
+		<club>Esquire</club>
+	</jugador>
+	<jugador idJug='Bowie'>
+		<division>6</division>
+		<monedas>54</monedas>
+		<club>Flakes</club>
+	</jugador>
+	<jugador idJug='Bowler'>
+		<division>10</division>
+		<monedas>99</monedas>
+		<cuentaOrigin>MonsterMania</cuentaOrigin>
+	</jugador>
+	<jugador idJug='Breadmaker'>
+		<division>3</division>
+		<monedas>88</monedas>
+		<cuentaOrigin>MoonSolitaire</cuentaOrigin>
+		<club>Flakes</club>
+	</jugador>
+	<jugador idJug='Broomspun'>
+		<division>10</division>
+		<monedas>77</monedas>
+		<club>Fabulous</club>
+	</jugador>
+	<jugador idJug='Buckshot'>
+		<division>10</division>
+		<monedas>61</monedas>
+		<cuentaOrigin>MuleSkinner</cuentaOrigin>
+		<club>Fabulous</club>
+	</jugador>
+	<jugador idJug='BugBlitz'>
+		<division>2</division>
+		<monedas>83</monedas>
+		<cuentaOrigin>MumMary</cuentaOrigin>
+		<club>Fast Draw</club>
+	</jugador>
+	<jugador idJug='BugFire'>
+		<division>4</division>
+		<monedas>63</monedas>
+		<club>FireByMisFire</club>
+	</jugador>
+	<jugador idJug='Bugger'>
+		<division>5</division>
+		<monedas>77</monedas>
+		<cuentaOrigin>Mustang</cuentaOrigin>
+		<club>Goatee Shield</club>
+	</jugador>
+	<jugador idJug='Cabbie'>
+		<division>7</division>
+		<monedas>76</monedas>
+	</jugador>
+	<jugador idJug='CandyButcher'>
+		<division>8</division>
+		<monedas>80</monedas>
+		<cuentaOrigin>Mystic</cuentaOrigin>
+		<club>Electric Saturn</club>
+	</jugador>
+	<jugador idJug='CapitalF'>
+		<division>10</division>
+		<monedas>68</monedas>
+		<cuentaOrigin>Nacho</cuentaOrigin>
+		<club>Gadget</club>
+	</jugador>
+	<jugador idJug='CaptainPeroxide'>
+		<division>4</division>
+		<monedas>65</monedas>
+	</jugador>
+	<jugador idJug='CelticCharger'>
+		<division>1</division>
+		<monedas>76</monedas>
+		<club>Gadget</club>
+	</jugador>
+	<jugador idJug='CenturionSherman'>
+		<division>3</division>
+		<monedas>94</monedas>
+		<cuentaOrigin>Necromancer</cuentaOrigin>
+		<club>EyeShooter</club>
+	</jugador>
+	<jugador idJug='CerealKiller'>
+		<division>8</division>
+		<monedas>59</monedas>
+		<club>Earl of Arms</club>
+	</jugador>
+	<jugador idJug='ChasmFace'>
+		<division>9</division>
+		<monedas>82</monedas>
+		<cuentaOrigin>NeophyteBeliever</cuentaOrigin>
+		<club>Flying Doodle</club>
+	</jugador>
+	<jugador idJug='ChewChew'>
+		<division>10</division>
+		<monedas>77</monedas>
+		<cuentaOrigin>Nessie</cuentaOrigin>
+		<club>Ghostrider</club>
+	</jugador>
+	<jugador idJug='ChicagoBlackout'>
+		<division>3</division>
+		<monedas>77</monedas>
+		<cuentaOrigin>NewCycle</cuentaOrigin>
+		<club>Dropkick</club>
+	</jugador>
+	<jugador idJug='ChipQueen'>
+		<division>7</division>
+		<monedas>92</monedas>
+	</jugador>
+	<jugador idJug='ChocoNutsX'>
+		<division>10</division>
+		<monedas>92</monedas>
+	</jugador>
+	<jugador idJug='ChocolateThunder'>
+		<division>6</division>
+		<monedas>97</monedas>
+		<cuentaOrigin>NightMagnet</cuentaOrigin>
+		<club>Flying Doodle</club>
+	</jugador>
+	<jugador idJug='Chuckles'>
+		<division>9</division>
+		<monedas>88</monedas>
+		<cuentaOrigin>NightTrain</cuentaOrigin>
+	</jugador>
+	<jugador idJug='ClubNola'>
+		<division>5</division>
+		<monedas>60</monedas>
+		<cuentaOrigin>NightmareKing</cuentaOrigin>
+		<club>FireByMisFire</club>
+	</jugador>
+	<jugador idJug='CoBolt'>
+		<division>5</division>
+		<monedas>95</monedas>
+		<cuentaOrigin>NoiseFire</cuentaOrigin>
+		<club>Electric Player</club>
+	</jugador>
+	<jugador idJug='CobraBite'>
+		<division>9</division>
+		<monedas>92</monedas>
+	</jugador>
+	<jugador idJug='Cocktail'>
+		<division>7</division>
+		<monedas>75</monedas>
+		<cuentaOrigin>OldManWinter</cuentaOrigin>
+	</jugador>
+	<jugador idJug='CollaterolDamage'>
+		<division>3</division>
+		<monedas>79</monedas>
+		<club>Electric Player</club>
+	</jugador>
+	<jugador idJug='CommandX'>
+		<division>9</division>
+		<monedas>69</monedas>
+		<cuentaOrigin>OldRegret</cuentaOrigin>
+	</jugador>
+	<jugador idJug='Commando'>
+		<division>5</division>
+		<monedas>96</monedas>
+		<cuentaOrigin>OmegaSub</cuentaOrigin>
+		<club>Freak</club>
+	</jugador>
+	<jugador idJug='CongoWire'>
+		<division>2</division>
+		<monedas>64</monedas>
+		<club>Gadget</club>
+	</jugador>
+	<jugador idJug='CoolIris'>
+		<division>10</division>
+		<monedas>67</monedas>
+		<club>Gas Man</club>
+	</jugador>
+	<jugador idJug='CoolWhip'>
+		<division>3</division>
+		<monedas>72</monedas>
+		<club>Guillotine</club>
+	</jugador>
+	<jugador idJug='Cosmo'>
+		<division>2</division>
+		<monedas>87</monedas>
+		<cuentaOrigin>PapaSmurf</cuentaOrigin>
+	</jugador>
+	<jugador idJug='CrashOverride'>
+		<division>9</division>
+		<monedas>50</monedas>
+		<cuentaOrigin>Paradise</cuentaOrigin>
+		<club>Fennel Dove</club>
+	</jugador>
+	<jugador idJug='CrashTest'>
+		<division>9</division>
+		<monedas>57</monedas>
+		<cuentaOrigin>PearlGirl</cuentaOrigin>
+		<club>Fist Wizard</club>
+	</jugador>
+	<jugador idJug='CrazyEights'>
+		<division>2</division>
+		<monedas>65</monedas>
+		<cuentaOrigin>PepperLegs</cuentaOrigin>
+		<club>Electric Saturn</club>
+	</jugador>
+	<jugador idJug='CrissCross'>
+		<division>9</division>
+		<monedas>65</monedas>
+		<cuentaOrigin>Peppermint</cuentaOrigin>
+	</jugador>
+	<jugador idJug='CrossThread'>
+		<division>6</division>
+		<monedas>88</monedas>
+		<cuentaOrigin>PhoenixTetra</cuentaOrigin>
+		<club>Glyph</club>
+	</jugador>
+	<jugador idJug='Cujo'>
+		<division>7</division>
+		<monedas>74</monedas>
+		<club>Dropkick</club>
+	</jugador>
+	<jugador idJug='CupidDust'>
+		<division>3</division>
+		<monedas>94</monedas>
+		<cuentaOrigin>PinballWizard</cuentaOrigin>
+		<club>Frozen Explosion</club>
+	</jugador>
+	<jugador idJug='DaffyGirl'>
+		<division>9</division>
+		<monedas>78</monedas>
+		<cuentaOrigin>PinkHopper</cuentaOrigin>
+		<club>ElactixNova</club>
+	</jugador>
+	<jugador idJug='DahliaBumble'>
+		<division>3</division>
+		<monedas>72</monedas>
+		<cuentaOrigin>PinkFloyd</cuentaOrigin>
+	</jugador>
+	<jugador idJug='DaisyCraft'>
+		<division>1</division>
+		<monedas>93</monedas>
+		<cuentaOrigin>PinkPanther</cuentaOrigin>
+		<club>Frozen Explosion</club>
+	</jugador>
+	<jugador idJug='DancingMadman'>
+		<division>4</division>
+		<monedas>86</monedas>
+		<cuentaOrigin>PistolHydro</cuentaOrigin>
+	</jugador>
+	<jugador idJug='Dangle'>
+		<division>6</division>
+		<monedas>76</monedas>
+		<club>Gov Skull</club>
+	</jugador>
+	<jugador idJug='DanimalDaze'>
+		<division>1</division>
+		<monedas>68</monedas>
+	</jugador>
+	<jugador idJug='DarkHorse'>
+		<division>9</division>
+		<monedas>91</monedas>
+		<cuentaOrigin>Pogue</cuentaOrigin>
+		<club>General Finish</club>
+	</jugador>
+	<jugador idJug='DarksideOrbit'>
+		<division>1</division>
+		<monedas>51</monedas>
+	</jugador>
+	<jugador idJug='DarlingPeacock'>
+		<division>3</division>
+		<monedas>57</monedas>
+		<cuentaOrigin>PoppyCoffee</cuentaOrigin>
+		<club>Fabulous</club>
+	</jugador>
+	<jugador idJug='DayHawk'>
+		<division>1</division>
+		<monedas>68</monedas>
+		<cuentaOrigin>PoptartAK47</cuentaOrigin>
+		<club>FireByMisFire</club>
+	</jugador>
+	<jugador idJug='DesertHaze'>
+		<division>1</division>
+		<monedas>91</monedas>
+		<club>Ember Rope</club>
+	</jugador>
+	<jugador idJug='Desperado'>
+		<division>5</division>
+		<monedas>69</monedas>
+		<cuentaOrigin>PsychoThinker</cuentaOrigin>
+		<club>FlyGuardX</club>
+	</jugador>
+	<jugador idJug='DevilBlade'>
+		<division>7</division>
+		<monedas>63</monedas>
+		<club>Father Abbot</club>
+	</jugador>
+	<jugador idJug='DevilChick'>
+		<division>7</division>
+		<monedas>50</monedas>
+		<club>FastLane</club>
+	</jugador>
+	<jugador idJug='Dexter'>
+		<division>1</division>
+		<monedas>88</monedas>
+		<cuentaOrigin>RadioactiveMan</cuentaOrigin>
+		<club>DuckDuck</club>
+	</jugador>
+	<jugador idJug='DiamondGamer'>
+		<division>6</division>
+		<monedas>86</monedas>
+		<cuentaOrigin>RaidBucker</cuentaOrigin>
+	</jugador>
+	<jugador idJug='Digger'>
+		<division>7</division>
+		<monedas>64</monedas>
+		<club>Green Ghost</club>
+	</jugador>
+	<jugador idJug='DiscoPotato'>
+		<division>10</division>
+		<monedas>87</monedas>
+		<cuentaOrigin>Ranger</cuentaOrigin>
+		<club>Gadget</club>
+	</jugador>
+	<jugador idJug='DiscoThunder'>
+		<division>8</division>
+		<monedas>97</monedas>
+		<cuentaOrigin>RedCombat</cuentaOrigin>
+		<club>Green Scavenger</club>
+	</jugador>
+	<jugador idJug='DiscoMate'>
+		<division>9</division>
+		<monedas>52</monedas>
+		<club>Fennel Dove</club>
+	</jugador>
+	<jugador idJug='DonStab'>
+		<division>4</division>
+		<monedas>89</monedas>
+		<cuentaOrigin>RedFeet</cuentaOrigin>
+	</jugador>
+	<jugador idJug='DozKiller'>
+		<division>1</division>
+		<monedas>70</monedas>
+		<cuentaOrigin>RedFisher</cuentaOrigin>
+	</jugador>
+	<jugador idJug='Dredd'>
+		<division>10</division>
+		<monedas>56</monedas>
+		<club>Electric Player</club>
+	</jugador>
+	<jugador idJug='DriftDetector'>
+		<division>3</division>
+		<monedas>84</monedas>
+		<cuentaOrigin>ReedLady</cuentaOrigin>
+	</jugador>
+	<jugador idJug='DriftManiac'>
+		<division>1</division>
+		<monedas>97</monedas>
+		<cuentaOrigin>RenegadeSlugger</cuentaOrigin>
+		<club>General Finish</club>
+	</jugador>
+	<jugador idJug='Toreto'>
+		<division>9</division>
+		<monedas>80</monedas>
+	</jugador>
+
+</jugadores>
